@@ -9,7 +9,7 @@
 <body>
 <main>
 <header><span class="logo">🌭🍩🍲</span><h1>Mamă, ce Bun!</h1></header>
-<p class="muted">Ultima actualizare / Last updated: 30.09.2026</p>
+<p class="muted">Ultima actualizare / Last updated: 02.10.2026</p>
 <nav class="lang"><a href="#ro">Română</a><a href="#en">English</a><a href="index.html">Suport / Support</a><a href="terms.html">Termeni / Terms</a></nav>
 
 <section id="ro" lang="ro">
@@ -25,6 +25,7 @@
 <li><strong>Un identificator anonim</strong>: la prima deschidere, aplicația primește un ID aleatoriu prin Firebase Authentication (Google), fără nicio legătură cu numele, emailul sau Apple ID-ul tău. Îl folosim ca să știm care note sunt ale tale, ca să le poți modifica sau șterge, și ca să limităm abuzurile (o notă per preparat per local, un raport per comentariu).</li>
 <li><strong>Notele și comentariile tale</strong>: când dai o notă unui preparat, trimitem nota (1–10), comentariul opțional, localul, preparatul, ID-ul anonim și data în baza de date Cloud Firestore (Google Firebase, regiunea Europa). Notele și comentariile sunt <strong>publice</strong> în aplicație, fără numele tău, și intră în media comunității.</li>
 <li><strong>Rapoartele</strong>: când raportezi un comentariu, salvăm ID-ul comentariului, ID-ul tău anonim și data, ca să putem verifica și ascunde conținutul nepotrivit.</li>
+<li><strong>Propunerile de localuri</strong>: când folosești „Propune un local”, trimitem numele localului, localitatea, adresa, preparatele bifate, nota și linkul completate de tine (toate opționale în afară de nume și localitate), ID-ul tău anonim și data în Cloud Firestore și, prin serviciul <strong>Formspree</strong>, un e-mail către noi, ca să le putem verifica. Nu scrie date personale în aceste câmpuri.</li>
 <li><strong>Date păstrate doar pe telefon</strong>: localurile salvate („Vreau să merg”, „Am fost”), o copie a notelor tale, insignele și utilizatorii blocați. Acestea nu părăsesc telefonul și se șterg odată cu aplicația.</li>
 </ul>
 <p>Ca orice serviciu online, Firebase poate prelucra tehnic adresa IP și informații despre dispozitiv strict pentru livrarea serviciului și securitate. Nu folosim Firebase Analytics, Crashlytics sau alte instrumente de analiză ori publicitate.</p>
@@ -33,10 +34,10 @@
 <p>Prelucrăm datele pentru a-ți oferi funcțiile pe care le folosești (art. 6 alin. (1) lit. b GDPR) și în interesul legitim de a menține comunitatea sigură și fără abuzuri (art. 6 alin. (1) lit. f). Pentru localizare ne bazăm pe acordul tău, dat prin sistemul iOS.</p>
 
 <h3>Cu cine partajăm datele</h3>
-<p>Nu vindem și nu închiriem date. Singurul furnizor care stochează date pentru noi este <strong>Google Firebase</strong> (Google Ireland Ltd. / Google LLC), în calitate de persoană împuternicită, conform <a href="https://firebase.google.com/terms/data-processing-terms">termenilor de prelucrare a datelor Firebase</a>. Hărțile sunt afișate prin Apple MapKit, conform <a href="https://www.apple.com/legal/privacy/">politicii de confidențialitate Apple</a>. Notele și comentariile sunt vizibile public celorlalți utilizatori, fără date de identificare.</p>
+<p>Nu vindem și nu închiriem date. Furnizorul care stochează date pentru noi este <strong>Google Firebase</strong> (Google Ireland Ltd. / Google LLC), în calitate de persoană împuternicită, conform <a href="https://firebase.google.com/terms/data-processing-terms">termenilor de prelucrare a datelor Firebase</a>. Propunerile de localuri ne sunt trimise și pe e-mail prin <strong>Formspree</strong> (Formspree, Inc., SUA), conform <a href="https://formspree.io/legal/privacy-policy/">politicii de confidențialitate Formspree</a>. Lista de localuri se descarcă de pe site-ul nostru, găzduit de GitHub Pages (GitHub, Inc.), fără să trimitem date despre tine. Hărțile sunt afișate prin Apple MapKit, conform <a href="https://www.apple.com/legal/privacy/">politicii de confidențialitate Apple</a>. Notele și comentariile sunt vizibile public celorlalți utilizatori, fără date de identificare.</p>
 
 <h3>Cât timp păstrăm datele</h3>
-<p>Notele și comentariile rămân până le ștergi. Poți șterge o notă din fișa localului („Modifică” › „Șterge nota”) sau pe toate odată din <strong>Traseul meu › ⓘ Despre aplicație › Șterge toate notele mele</strong>. Comentariile raportate de mai mulți utilizatori sunt ascunse automat și pot fi șterse de noi. Dacă ai șters deja aplicația, scrie-ne cu localul, preparatul și textul comentariului și îl ștergem noi.</p>
+<p>Notele și comentariile rămân până le ștergi. Poți șterge o notă din fișa localului („Modifică” › „Șterge nota”) sau pe toate odată din <strong>Acasă › ⓘ Despre aplicație › Șterge toate notele mele</strong>. Propunerile de localuri le păstrăm cât timp le verificăm, apoi ștergem datele de contact tehnice (ID-ul anonim); localurile aprobate apar în aplicație. Comentariile raportate de mai mulți utilizatori sunt ascunse automat și pot fi șterse de noi. Dacă ai șters deja aplicația, scrie-ne cu localul, preparatul și textul comentariului și îl ștergem noi.</p>
 
 <h3>Drepturile tale</h3>
 <p>Ai dreptul de acces, rectificare, ștergere, restricționare, portabilitate și opoziție, precum și dreptul de a depune o plângere la Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (<a href="https://www.dataprotection.ro">ANSPDCP</a>). Pentru orice cerere, scrie-ne la adresa de mai sus; răspundem în cel mult 30 de zile.</p>
@@ -61,6 +62,7 @@
 <li><strong>An anonymous identifier</strong>: on first launch the app receives a random ID through Firebase Authentication (Google), not linked to your name, email or Apple ID. We use it to know which ratings are yours, so you can edit or delete them, and to limit abuse (one rating per dish per place, one report per comment).</li>
 <li><strong>Your ratings and comments</strong>: when you rate a dish, we send the score (1–10), the optional comment, the place, the dish, your anonymous ID and the date to Cloud Firestore (Google Firebase, Europe region). Ratings and comments are <strong>public</strong> in the app, without your name, and count toward the community average.</li>
 <li><strong>Reports</strong>: when you report a comment, we store the comment ID, your anonymous ID and the date so we can review and hide inappropriate content.</li>
+<li><strong>Place suggestions</strong>: when you use “Suggest a place”, we send the place name, town, address, the dishes you ticked, the note and link you filled in (all optional except name and town), your anonymous ID and the date to Cloud Firestore and, through the <strong>Formspree</strong> service, as an email to us so we can review them. Please do not put personal data in these fields.</li>
 <li><strong>Data kept only on your phone</strong>: saved places (“Want to go”, “Been there”), a copy of your ratings, badges and blocked users. These never leave your phone and are removed when you delete the app.</li>
 </ul>
 <p>Like any online service, Firebase may technically process your IP address and device information strictly to deliver the service and keep it secure. We do not use Firebase Analytics, Crashlytics or any other analytics or advertising tools.</p>
@@ -69,10 +71,10 @@
 <p>We process data to provide the features you use (Art. 6(1)(b) GDPR) and in our legitimate interest in keeping the community safe and free of abuse (Art. 6(1)(f)). Location relies on your consent, given through iOS.</p>
 
 <h3>Sharing</h3>
-<p>We do not sell or rent data. The only provider that stores data for us is <strong>Google Firebase</strong> (Google Ireland Ltd. / Google LLC), acting as processor under the <a href="https://firebase.google.com/terms/data-processing-terms">Firebase data processing terms</a>. Maps are provided by Apple MapKit under <a href="https://www.apple.com/legal/privacy/">Apple’s privacy policy</a>. Ratings and comments are publicly visible to other users, without identifying information.</p>
+<p>We do not sell or rent data. The provider that stores data for us is <strong>Google Firebase</strong> (Google Ireland Ltd. / Google LLC), acting as processor under the <a href="https://firebase.google.com/terms/data-processing-terms">Firebase data processing terms</a>. Place suggestions are also emailed to us through <strong>Formspree</strong> (Formspree, Inc., USA), under the <a href="https://formspree.io/legal/privacy-policy/">Formspree privacy policy</a>. The list of places is downloaded from our website, hosted on GitHub Pages (GitHub, Inc.), without sending any data about you. Maps are provided by Apple MapKit under <a href="https://www.apple.com/legal/privacy/">Apple’s privacy policy</a>. Ratings and comments are publicly visible to other users, without identifying information.</p>
 
 <h3>Retention</h3>
-<p>Ratings and comments are kept until you delete them. You can delete one rating from the place page (“Edit” › “Delete rating”) or all of them at once in <strong>My route › ⓘ About › Delete all my ratings</strong>. Comments reported by several users are hidden automatically and may be removed by us. If you have already deleted the app, email us the place, dish and comment text and we will delete it.</p>
+<p>Ratings and comments are kept until you delete them. You can delete one rating from the place page (“Edit” › “Delete rating”) or all of them at once in <strong>Home › ⓘ About › Delete all my ratings</strong>. We keep place suggestions while we review them, then remove the technical identifier (anonymous ID); approved places appear in the app. Comments reported by several users are hidden automatically and may be removed by us. If you have already deleted the app, email us the place, dish and comment text and we will delete it.</p>
 
 <h3>Your rights</h3>
 <p>You have the right to access, rectify, erase, restrict, port and object to the processing of your data, and to lodge a complaint with the Romanian data protection authority (<a href="https://www.dataprotection.ro">ANSPDCP</a>) or your local authority. Email us with any request; we reply within 30 days.</p>
