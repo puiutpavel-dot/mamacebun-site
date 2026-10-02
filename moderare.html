@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Moderare note · Mamă, ce Bun!</title>
+<style>
+  :root {
+    --bg: #faf7f2; --card: #ffffff; --ink: #1f1a17; --muted: #6f6660; --line: #e8e1d8;
+    --accent: #c0392b; --ok: #1e7a3c; --no: #b42318; --wait: #a15c07; --chip: #f3ede5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #141110; --card: #1f1b19; --ink: #f3eee9; --muted: #a79d95; --line: #332d29;
+      --accent: #ef6a5b; --ok: #4cc27a; --no: #ff7b6e; --wait: #f0b357; --chip: #2a2421; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+    font: 16px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 20px 16px 60px; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  .muted { color: var(--muted); font-size: .9rem; }
+  .bar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 16px 0; }
+  button { font: inherit; border: 1px solid var(--line); background: var(--card); color: var(--ink);
+    padding: 8px 14px; border-radius: 999px; cursor: pointer; }
+  button.primary { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+  button.ok { color: var(--ok); border-color: var(--ok); font-weight: 600; }
+  button.no { color: var(--no); border-color: var(--no); }
+  button.tab[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  button:disabled { opacity: .5; cursor: default; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px; margin: 10px 0; }
+  .head { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+  .venue { font-weight: 700; }
+  .score { font-weight: 800; font-size: 1.3rem; color: var(--accent); white-space: nowrap; }
+  .reason { margin: 8px 0; font-style: italic; }
+  .reason.short { color: var(--no); }
+  .meta { display: flex; flex-wrap: wrap; gap: 6px; font-size: .8rem; color: var(--muted); }
+  .chip { background: var(--chip); border-radius: 999px; padding: 2px 8px; }
+  .st-pending { color: var(--wait); } .st-approved { color: var(--ok); } .st-rejected { color: var(--no); }
+  .actions { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+  #msg { margin: 12px 0; }
+  .err { color: var(--no); }
+  .empty { text-align: center; padding: 40px 0; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>🌭🍩🍲 Moderare note</h1>
+  <p class="muted">Notele noi apar în aplicație doar după ce le aprobi aici. Pagina funcționează numai cu contul Google al moderatorului.</p>
+
+  <div class="bar" id="authBar">
+    <button class="primary" id="signIn">Conectează-te cu Google</button>
+    <span class="muted" id="who"></span>
+    <button id="signOut" hidden>Deconectare</button>
+  </div>
+
+  <div id="msg"></div>
+
+  <div id="panel" hidden>
+    <div class="bar">
+      <button class="tab" data-filter="pending" aria-pressed="true">De aprobat <span id="n-pending"></span></button>
+      <button class="tab" data-filter="approved" aria-pressed="false">Aprobate <span id="n-approved"></span></button>
+      <button class="tab" data-filter="rejected" aria-pressed="false">Respinse <span id="n-rejected"></span></button>
+      <button id="reload">↻ Reîncarcă</button>
+    </div>
+    <div class="bar" id="bulkBar" hidden>
+      <button class="ok" id="approveAll">Aprobă tot ce e afișat</button>
+    </div>
+    <div id="list"></div>
+  </div>
+</main>
+
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+  import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged }
+    from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+  import { getFirestore, collection, getDocs, doc, updateDoc, deleteDoc, serverTimestamp }
+    from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+
+  // Configurația proiectului Firebase „mamacebun-84cbf”. Dacă Google refuză cheia (eroare „API key”),
+  // înlocuiește aici cu configurația aplicației Web din Firebase Console › Project settings › Your apps.
+  const firebaseConfig = {
+    apiKey: "AIzaSyBqqEhwA_1nGs5c_HLnVSCeT-r4cDnIC7k",
+    authDomain: "mamacebun-84cbf.firebaseapp.com",
+    projectId: "mamacebun-84cbf",
+    storageBucket: "mamacebun-84cbf.firebasestorage.app",
+    messagingSenderId: "668235715078"
+  };
+  const ADMIN = "puiutpavel@gmail.com";
+  const DISH = { mici: "🌭 Mici", papanasi: "🍩 Papanași", ciorba_de_burta: "🍲 Ciorbă de burtă" };
+  const STATUS = { pending: "În așteptare", approved: "Aprobată", rejected: "Respinsă" };
+
+  const app = initializeApp(firebaseConfig);
+  const auth = getAuth(app);
+  const db = getFirestore(app);
+  const $ = (id) => document.getElementById(id);
+
+  let all = [];
+  let venues = {};
+  let filter = "pending";
+
+  const say = (text, isError = false) => {
+    $("msg").textContent = text;
+    $("msg").className = isError ? "err" : "muted";
+  };
+
+  async function loadVenues() {
+    try {
+      const res = await fetch("data/restaurants.json", { cache: "no-store" });
+      const data = await res.json();
+      const items = Array.isArray(data) ? data : (data.restaurants || []);
+      for (const r of items) venues[r.id] = `${r.name}${r.city ? " · " + r.city : ""}`;
+    } catch { /* numele rămân id-uri */ }
+  }
+
+  const statusOf = (r) => (r.status === "approved" || r.status === "rejected") ? r.status : "pending";
+  const time = (ts) => ts?.toDate ? ts.toDate() : null;
+  const fmt = (d) => d ? d.toLocaleString("ro-RO", { dateStyle: "medium", timeStyle: "short" }) : "—";
+
+  async function load() {
+    say("Se încarcă notele…");
+    try {
+      const snap = await getDocs(collection(db, "reviews"));
+      all = snap.docs.map((d) => ({ id: d.id, ...d.data() }));
+      all.sort((a, b) => (time(b.updatedAt)?.getTime() || 0) - (time(a.updatedAt)?.getTime() || 0));
+      say("");
+      render();
+    } catch (e) {
+      say("Nu am putut citi notele: " + (e.code || e.message) +
+          ". Verifică dacă regulile noi sunt publicate în Firebase și dacă ești conectat cu " + ADMIN + ".", true);
+    }
+  }
+
+  function render() {
+    for (const s of ["pending", "approved", "rejected"]) {
+      const n = all.filter((r) => statusOf(r) === s).length;
+      $("n-" + s).textContent = n ? `(${n})` : "";
+    }
+    const shown = all.filter((r) => statusOf(r) === filter);
+    $("bulkBar").hidden = !(filter === "pending" && shown.length > 1);
+    const list = $("list");
+    list.replaceChildren();
+    if (!shown.length) {
+      const p = document.createElement("p");
+      p.className = "empty";
+      p.textContent = filter === "pending" ? "Nimic de aprobat. 🎉" : "Nicio notă aici.";
+      list.append(p);
+      return;
+    }
+    for (const r of shown) list.append(card(r));
+  }
+
+  function card(r) {
+    const el = document.createElement("div");
+    el.className = "card";
+    const s = statusOf(r);
+    const reason = (r.comment || "").trim();
+
+    const head = document.createElement("div");
+    head.className = "head";
+    const left = document.createElement("div");
+    const venue = document.createElement("div");
+    venue.className = "venue";
+    venue.textContent = venues[r.restaurantID] || r.restaurantID;
+    const dish = document.createElement("div");
+    dish.className = "muted";
+    dish.textContent = DISH[r.dish] || r.dish;
+    left.append(venue, dish);
+    const score = document.createElement("div");
+    score.className = "score";
+    score.textContent = `${String(r.score).replace(".", ",")}/10`;
+    head.append(left, score);
+
+    const p = document.createElement("p");
+    p.className = "reason" + (reason.length < 20 ? " short" : "");
+    p.textContent = reason ? `„${reason}”` : "(fără explicație — notă veche)";
+
+    const meta = document.createElement("div");
+    meta.className = "meta";
+    const chips = [
+      [STATUS[s] + (r.status ? "" : " · notă veche"), "st-" + s],
+      ["Trimisă: " + fmt(time(r.updatedAt)), ""],
+      ["Utilizator: " + (r.uid || "").slice(0, 6) + "…", ""]
+    ];
+    if (r.reportCount) chips.push([`⚑ ${r.reportCount} raportări`, "st-rejected"]);
+    for (const [t, c] of chips) {
+      const span = document.createElement("span");
+      span.className = "chip " + c;
+      span.textContent = t;
+      meta.append(span);
+    }
+
+    const actions = document.createElement("div");
+    actions.className = "actions";
+    const mk = (label, cls, fn) => {
+      const b = document.createElement("button");
+      b.textContent = label;
+      if (cls) b.className = cls;
+      b.onclick = async () => {
+        actions.querySelectorAll("button").forEach((x) => (x.disabled = true));
+        try { await fn(); } catch (e) {
+          say("Eroare: " + (e.code || e.message), true);
+          actions.querySelectorAll("button").forEach((x) => (x.disabled = false));
+        }
+      };
+      return b;
+    };
+    if (s !== "approved") actions.append(mk("✓ Aprobă", "ok", () => setStatus(r, "approved")));
+    if (s !== "rejected") actions.append(mk("✕ Respinge", "no", () => setStatus(r, "rejected")));
+    if (s !== "pending") actions.append(mk("↺ Înapoi la „de aprobat”", "", () => setStatus(r, "pending")));
+    actions.append(mk("Șterge definitiv", "no", async () => {
+      if (!confirm("Ștergi definitiv această notă? Nu poate fi anulat.")) {
+        actions.querySelectorAll("button").forEach((x) => (x.disabled = false));
+        return;
+      }
+      await deleteDoc(doc(db, "reviews", r.id));
+      all = all.filter((x) => x.id !== r.id);
+      render();
+    }));
+
+    el.append(head, p, meta, actions);
+    return el;
+  }
+
+  async function setStatus(r, status) {
+    await updateDoc(doc(db, "reviews", r.id), { status, moderatedAt: serverTimestamp() });
+    r.status = status;
+    render();
+  }
+
+  $("approveAll").onclick = async () => {
+    const shown = all.filter((r) => statusOf(r) === "pending");
+    if (!confirm(`Aprobi toate cele ${shown.length} note afișate?`)) return;
+    $("approveAll").disabled = true;
+    let done = 0;
+    for (const r of shown) {
+      try { await setStatus(r, "approved"); done++; } catch (e) { say("Eroare la o notă: " + (e.code || e.message), true); }
+    }
+    $("approveAll").disabled = false;
+    say(`Am aprobat ${done} note.`);
+  };
+
+  document.querySelectorAll(".tab").forEach((b) => {
+    b.onclick = () => {
+      filter = b.dataset.filter;
+      document.querySelectorAll(".tab").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      render();
+    };
+  });
+  $("reload").onclick = load;
+
+  $("signIn").onclick = async () => {
+    try {
+      const provider = new GoogleAuthProvider();
+      provider.setCustomParameters({ login_hint: ADMIN, prompt: "select_account" });
+      await signInWithPopup(auth, provider);
+    } catch (e) {
+      say("Conectarea nu a mers: " + (e.code || e.message) +
+          ". Verifică în Firebase Console › Authentication că „Google” e activat și că domeniul puiutpavel-dot.github.io e autorizat.", true);
+    }
+  };
+  $("signOut").onclick = () => signOut(auth);
+
+  onAuthStateChanged(auth, async (user) => {
+    const isAdmin = user && !user.isAnonymous && user.email === ADMIN;
+    $("signIn").hidden = !!user;
+    $("signOut").hidden = !user;
+    $("who").textContent = user ? (user.email || "anonim") : "";
+    $("panel").hidden = !isAdmin;
+    if (user && !isAdmin) { say("Acest cont nu are drept de moderare.", true); return; }
+    if (isAdmin) { await loadVenues(); await load(); }
+    else say("");
+  });
+</script>
+</body>
+</html>
