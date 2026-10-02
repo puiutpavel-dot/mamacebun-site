@@ -1,0 +1,4789 @@
+[
+  {
+    "id": "obor",
+    "name": "Terasa Obor",
+    "kind": "terasa",
+    "address": "Piața Obor (food hall Gust Obor)",
+    "city": "București",
+    "county": "București",
+    "latitude": 44.45004,
+    "longitude": 26.12957,
+    "website": "https://www.facebook.com/TerasaObor",
+    "summary": "Tarabă de mici din Piața Obor, mutată la finalul lui 2025 în food hall-ul Gust Obor.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 8.8,
+        "reviewCount": 3132
+      }
+    ],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/menus-glovo/products/eb296031298de74280a5f1f109df6ab62814dffc98ad0f34d9b3f7ebf2c0b69f?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/883789/product/41910492679/cbbabfd2-a22f-4683-bede-688feab3c59d.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/eb296031298de74280a5f1f109df6ab62814dffc98ad0f34d9b3f7ebf2c0b69f?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Meniu mici de Obor",
+        "dish": "mici",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/883789/product/41910492679/cbbabfd2-a22f-4683-bede-688feab3c59d.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Mici de porc și vită",
+        "dish": "mici",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://b365.ro/foto-terasa-obor-s-a-mutat-in-noul-food-court-gust-obor-bucurestenii-au-avut-pareri-pro-si-contra-micii-sunt-la-fel-de-buni-coada-e-tot-acolo-587590/",
+      "https://restograf.ro/se-deschide-gust-obor-food-hall-ul-din-piata-obor/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.4,
+      "count": 3132,
+      "source": "Google",
+      "url": null,
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "cocosatu-baneasa",
+    "name": "La Cocoșatu' Băneasa",
+    "kind": "restaurant",
+    "address": "Str. Neagoe Vodă 52A, Sector 1",
+    "city": "București",
+    "county": "București",
+    "latitude": 44.49449,
+    "longitude": 26.08228,
+    "phone": "021 232 87 96",
+    "website": "https://www.lacocosatu.ro",
+    "summary": "Local cu specific românesc din zona Băneasa, cunoscut pentru mici.",
+    "specialties": [
+      "mici",
+      "ciorba_de_burta",
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 8.6,
+        "reviewCount": 6959
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.6,
+        "reviewCount": 6959
+      },
+      {
+        "dish": "papanasi",
+        "score": 8.6,
+        "reviewCount": 6959
+      }
+    ],
+    "photoURLs": [
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67e6808a15fb2615369525a3/6ab3de7e-3652-11f0-ab14-b6615e78c3f1_67721d4f_9797_ef11_80f7_00059a3c7a00.png",
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67e6808a15fb2615369525a3/6a99359c-3652-11f0-ab14-b6615e78c3f1_52f94047_5608_ef11_80f0_00155d010112.png",
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67e68371463ef124b605ec8b/04727ca6-ab63-11f1-a04a-e6ae0244749c_1afa4047_5608_ef11_80f0_00155d010112_1788796834319.jpeg"
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R_xj6I6u2QoyfEILoVtAAsg-yUmM06RNmqlGbiCoEY1x-65ra78trACQD-hS71wAWh43aEVaTCKf_xkSRb_3l-CXIPYWHMXlbUdFJTk1CsTPXwQ_BF7mpLgY5Gvph0D6D1PTL2=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RH0sBkzy8eSTdqjFoUCA2Kk2p7akPvhopXaLzvUK9piY4WDnJbi3GxgZyvSGA-NTNh36Q5kYijawvr6s0gUCXnrUefdfnLJIaW8KzdT62lwQ8kS2J5nyvomnvsSoc8wObS58cKeNL8cRY=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-QPsipsiyQtZejV3tnRuBtnWBem0WuUcWCN7xiQfa6QAXOAjsSYQ3FwwdR3de8fa9QugrrTdJC_xmDQKf_YZphW3-ygAoOhNV7gXX11cU3TdTUYcUAlhYg7soh16gkKc0Qn2pgZoFuHZy=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67e6808a15fb2615369525a3/6ab3de7e-3652-11f0-ab14-b6615e78c3f1_67721d4f_9797_ef11_80f7_00059a3c7a00.png",
+        "caption": "Mici cu muștar",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67e6808a15fb2615369525a3/6a99359c-3652-11f0-ab14-b6615e78c3f1_52f94047_5608_ef11_80f0_00155d010112.png",
+        "caption": "Ciorbă de burtă cu smântână și ardei iute",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67e68371463ef124b605ec8b/04727ca6-ab63-11f1-a04a-e6ae0244749c_1afa4047_5608_ef11_80f0_00155d010112_1788796834319.jpeg",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://www.lacocosatu.ro/locatii/",
+      "https://www.lacocosatu.ro/meniu/",
+      "https://www.digi24.ro/magazin/stil-de-viata/culinar/secretul-micilor-de-la-cocosatu-921948"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.3,
+      "count": 6959,
+      "source": "Google",
+      "url": null,
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "cocosatu-clucerului",
+    "name": "La Cocoșatu' Clucerului",
+    "kind": "restaurant",
+    "address": "Str. Clucerului 41, Sector 1",
+    "city": "București",
+    "county": "București",
+    "latitude": 44.46285,
+    "longitude": 26.07648,
+    "phone": "0769 669 720",
+    "website": "https://www.lacocosatu.ro",
+    "summary": "Filiala La Cocoșatu' din zona Piața 1 Mai – Arcul de Triumf.",
+    "specialties": [
+      "mici",
+      "ciorba_de_burta",
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 8.6,
+        "reviewCount": 1090
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.6,
+        "reviewCount": 1090
+      },
+      {
+        "dish": "papanasi",
+        "score": 8.6,
+        "reviewCount": 1090
+      }
+    ],
+    "photoURLs": [
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67e68371463ef124b605ec8b/045a0d10-ab63-11f1-a04a-e6ae0244749c_4d2db6da_6e4c_f011_a682_00155d010120_1788856080014.jpeg",
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67e6808a15fb2615369525a3/6a99359c-3652-11f0-ab14-b6615e78c3f1_52f94047_5608_ef11_80f0_00155d010112.png",
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67e68371463ef124b605ec8b/04727ca6-ab63-11f1-a04a-e6ae0244749c_1afa4047_5608_ef11_80f0_00155d010112_1788796834319.jpeg"
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9STSlfQccfHbkyKorcccdhSDphACiG6srahsdPjQqLpOsGuOOjBdZSk-f6Wq0yujW8FptiflxFQEl0UvftL8GpJFqYZzj1oGI8PIfv3FMbiS_5QTV9Eu0BjiuEfncehdGh9faHjzQ=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67e68371463ef124b605ec8b/045a0d10-ab63-11f1-a04a-e6ae0244749c_4d2db6da_6e4c_f011_a682_00155d010120_1788856080014.jpeg",
+        "caption": "Meniu 5 mici cu muștar",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67e6808a15fb2615369525a3/6a99359c-3652-11f0-ab14-b6615e78c3f1_52f94047_5608_ef11_80f0_00155d010112.png",
+        "caption": "Ciorbă de burtă cu smântână și ardei iute",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67e68371463ef124b605ec8b/04727ca6-ab63-11f1-a04a-e6ae0244749c_1afa4047_5608_ef11_80f0_00155d010112_1788796834319.jpeg",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://www.lacocosatu.ro/locatii/",
+      "https://www.lacocosatu.ro/meniu/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.3,
+      "count": 1090,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/1237023/la-coco%C8%99atu",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "ciotoianu-popesti",
+    "name": "La Ciotoianu Grill Popești-Leordeni",
+    "kind": "restaurant",
+    "address": "Strada Mirăslău 37-39",
+    "city": "Popești-Leordeni",
+    "county": "Ilfov",
+    "latitude": 44.3761,
+    "longitude": 26.16414,
+    "phone": "0744 505 073",
+    "website": "https://laciotoianugrill.ro",
+    "summary": "Grătar cu mici, pastramă și cârnați în Popești-Leordeni.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 9.0,
+        "reviewCount": 5356
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/69de05676b1a81cc68345e37?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/69de05676b1a81cc68345e37?w=900",
+        "caption": "Mici",
+        "dish": "mici",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://laciotoianugrill.ro/meniu-la-ciotoianu-popesti-leordeni/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.5,
+      "count": 5356,
+      "source": "Google",
+      "url": "https://www.soimiigastronomiei.ro/profile-72174-la-ciotoianu-grill",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "ciotoianu-taberei",
+    "name": "La Ciotoianu Grill Drumul Taberei",
+    "kind": "restaurant",
+    "address": "Drumul Taberei 115, Sector 6",
+    "city": "București",
+    "county": "București",
+    "latitude": 44.41881,
+    "longitude": 26.03061,
+    "phone": "0773 723 298",
+    "website": "https://laciotoianugrill.ro",
+    "summary": "Filiala La Ciotoianu Grill din Drumul Taberei, cu mici și preparate la grătar.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/69de05676b1a81cc68345e37?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/69de05676b1a81cc68345e37?w=900",
+        "caption": "Mici",
+        "dish": "mici",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://laciotoianugrill.ro/meniu-la-ciotoianu-dr-taberei/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": []
+  },
+  {
+    "id": "caru-cu-bere",
+    "name": "Caru' cu Bere",
+    "kind": "berarie",
+    "address": "Strada Stavropoleos 5, Sector 3",
+    "city": "București",
+    "county": "București",
+    "latitude": 44.43202,
+    "longitude": 26.09812,
+    "phone": "0726 282 373",
+    "website": "https://www.carucubere.ro",
+    "summary": "Berărie-restaurant istorică din Centrul Vechi, pe strada Stavropoleos.",
+    "specialties": [
+      "papanasi",
+      "mici",
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 9.2,
+        "reviewCount": 98101
+      },
+      {
+        "dish": "mici",
+        "score": 9.2,
+        "reviewCount": 98101
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.2,
+        "reviewCount": 98101
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/6823561133a57f718385632f?w=900",
+      "https://imageproxy.wolt.com/assets/6823560e33a57f7183856325?w=900",
+      "https://imageproxy.wolt.com/assets/68235623bf938d88ecb2014d?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TP9fK4XyZ0KdnJQaNzJq5lHWNgHecjvbjh54Xle5NkyS9HYTxY5XYtOSNx2gYlbFVV5sR_n6XrUdYXqy9TM7pU3d3C96CRPPyR_PJf1BNgurd2_KBem3eg5o5DnBdYe2OrloL909_jfyX9=w900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6823561133a57f718385632f?w=900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6823560e33a57f7183856325?w=900",
+        "caption": "Faimoșii Mititei Caru' cu bere",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/68235623bf938d88ecb2014d?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://www.carucubere.ro/",
+      "https://www.carucubere.ro/wp-content/uploads/2025/03/CCB-meniu-mancare-9-martie.pdf"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.6,
+      "count": 98101,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/26535/caru-cu-bere",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "vatra",
+    "name": "Vatra",
+    "kind": "restaurant",
+    "address": "Str. Actor Ion Brezoianu 19, Sector 1",
+    "city": "București",
+    "county": "București",
+    "latitude": 44.4353,
+    "longitude": 26.09459,
+    "phone": "+40 21 315 83 75",
+    "website": "https://vatra.ro",
+    "summary": "Restaurant cu mâncare tradițională românească, lângă Parcul Cișmigiu.",
+    "specialties": [
+      "papanasi",
+      "ciorba_de_burta",
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.8,
+        "reviewCount": 6500
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.8,
+        "reviewCount": 6500
+      },
+      {
+        "dish": "mici",
+        "score": 8.8,
+        "reviewCount": 6500
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://vatra.ro/en/contact/",
+      "https://vatra.ro/menu1.pdf"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QIf1TXwu7UCd_mG9uvlsctQ4E-uDrjj9o-GArHSLRaZYW7OtV4O7P3GJ-65YJki9wb7e-rDN5_3SmuoGkEdHA95X-oQWYra77vN0CRhM5LlC-mQ7He8ipxZuLcTMK64zqm6h_TBw=w900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Google Maps (proprietar)"
+      }
+    ],
+    "publicRating": {
+      "stars": 4.4,
+      "count": 6500,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/544280/vatra",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "hanu-lui-manuc",
+    "name": "Hanu' lui Manuc",
+    "kind": "restaurant",
+    "address": "Str. Franceză 62-64, Sector 3",
+    "city": "București",
+    "county": "București",
+    "latitude": 44.42972,
+    "longitude": 26.10235,
+    "phone": "+40 730 188 653",
+    "website": "https://hanumanucrestaurant.ro",
+    "summary": "Restaurant cu specific românesc în clădirea istorică Hanul lui Manuc din Centrul Vechi.",
+    "specialties": [
+      "ciorba_de_burta",
+      "papanasi",
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.4,
+        "reviewCount": 61322
+      },
+      {
+        "dish": "papanasi",
+        "score": 9.4,
+        "reviewCount": 61322
+      },
+      {
+        "dish": "mici",
+        "score": 9.4,
+        "reviewCount": 61322
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/682355f4963c0aea453d6209?w=900",
+      "https://imageproxy.wolt.com/assets/6823561233a57f7183856343?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/682355f4963c0aea453d6209?w=900",
+        "caption": "Ciorbă tradițională de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6823561233a57f7183856343?w=900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://hanumanucrestaurant.ro/en/contact/",
+      "https://hanumanucrestaurant.ro/wp-content/uploads/2026/02/meniu-mancare-hanu-lui-manuc.pdf"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.7,
+      "count": 61322,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/544283/restaurant-hanu-lui-manuc",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "hanu-berarilor-soare",
+    "name": "Hanu' Berarilor – Casa Oprea Soare",
+    "kind": "berarie",
+    "address": "Str. Poenaru Bordea 2, Sector 5",
+    "city": "București",
+    "county": "București",
+    "latitude": 44.42853,
+    "longitude": 26.09543,
+    "phone": "+40 729 400 800",
+    "website": "https://hanuberarilor.ro",
+    "summary": "Berărie-restaurant cu mâncare românească, în clădirea istorică Casa Oprea Soare.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 9.2,
+        "reviewCount": 21114
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/68230ca888bddcf5f56ae4ce?w=900",
+      "https://imageproxy.wolt.com/assets/68230ca488bddcf5f56ae4bb?w=900",
+      "https://imageproxy.wolt.com/assets/68230c9a88bddcf5f56ae487?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68230ca888bddcf5f56ae4ce?w=900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/68230ca488bddcf5f56ae4bb?w=900",
+        "caption": "Mititei DOC",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/68230c9a88bddcf5f56ae487?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://hanuberarilor.ro/en/hanu-berarilor-casa-oprea-soare/",
+      "https://wanderlog.com/place/details/1125585/hanu-berarilor-casa-oprea-soare"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.6,
+      "count": 21114,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/1125585/hanu-berarilor-casa-oprea-soare",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "zexe",
+    "name": "Zexe – Zahanaua Gastronomică",
+    "kind": "restaurant",
+    "address": "Bd. Aviatorilor 40, Sector 1",
+    "city": "București",
+    "county": "București",
+    "latitude": 44.4613,
+    "longitude": 26.08674,
+    "phone": "0732 232 424",
+    "website": "https://zexe.ro",
+    "summary": "Restaurant cu bucătărie românească de inspirație boierească, pe Bulevardul Aviatorilor.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.0,
+        "reviewCount": 3504
+      }
+    ],
+    "photoURLs": [
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/zexe/ciorba-de-burta.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/zexe/mititei.jpg"
+    ],
+    "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/zexe/ciorba-de-burta.jpg",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Zexe (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/zexe/mititei.jpg",
+        "caption": "Mititei Zexe",
+        "dish": "mici",
+        "source": "Zexe (oficial)"
+      }
+    ],
+    "sources": [
+      "https://zexe.ro/",
+      "https://restograf.ro/unde-iesim-cand-avem-pofta-de-o-ciorba-de-burta/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.5,
+      "count": 3504,
+      "source": "Google",
+      "url": null,
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "beraria-700",
+    "name": "Berăria 700",
+    "kind": "berarie",
+    "address": "Strada Coriolan Brediceanu 4",
+    "city": "Timișoara",
+    "county": "Timiș",
+    "latitude": 45.7564,
+    "longitude": 21.22387,
+    "phone": "+40 742 372 743",
+    "website": "https://www.beraria700.ro",
+    "summary": "Berărie cu specific tradițional în Piața 700 din Timișoara, cu terasă și preparate la grătar.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 8.8,
+        "reviewCount": 6311
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.beraria700.ro/informatii/2/BERARIA-700.html"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R0DTLTyin9G5RPRHlh-8b8FOtLXPzJCLWS1zsIK85Xopez_2KM6ktDOVDLmjtnsXZQy8fOLDXnUTaxwdQQT8nhfBfn5SWVBMzg3Sa_yTHdysB_hIvAoheQpSTsoNU6rc24Yh1I=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      }
+    ],
+    "publicRating": {
+      "stars": 4.4,
+      "count": 6311,
+      "source": "Google",
+      "url": null,
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "sibiul-vechi",
+    "name": "Crama Sibiul Vechi",
+    "kind": "crama",
+    "address": "Strada Alexandru Papiu-Ilarian 3",
+    "city": "Sibiu",
+    "county": "Sibiu",
+    "latitude": 45.7944,
+    "longitude": 24.15129,
+    "phone": "+40 269 210 461",
+    "website": "http://www.sibiulvechi.ro",
+    "summary": "Restaurant cu preparate tradiționale românești, amenajat într-o cramă din centrul istoric al Sibiului.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 9.2,
+        "reviewCount": 5872
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.turnulsfatului.ro/2022/05/29/am-mancat-regeste-la-crama-sibiul-vechi-nu-mai-astept-atat-pana-la-urmatoarea-vizita-193283"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.6,
+      "count": 5872,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/798160/crama-sibiul-vechi",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "moldovan-cluj",
+    "name": "Moldovan Carmangerie",
+    "kind": "carmangerie",
+    "address": "Strada Dávid Ferenc 21",
+    "city": "Cluj-Napoca",
+    "county": "Cluj",
+    "latitude": 46.77339,
+    "longitude": 23.59049,
+    "website": "https://moldovanfood.ro",
+    "summary": "Carmangerie din zona centrală a Clujului, cunoscută pentru mici.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://zilesinopti.ro/2026/07/14/micii-din-cluj-top-5-locuri-favorite/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "ciorbe-la-ion",
+    "name": "Ciorbe La Ion",
+    "kind": "restaurant",
+    "address": "Strada Gării 55",
+    "city": "Galați",
+    "county": "Galați",
+    "latitude": 45.44359,
+    "longitude": 28.05261,
+    "phone": "+40 740 834 615",
+    "website": "https://ciorbelaion.ro",
+    "summary": "Restaurant cu specific tradițional din Galați, axat pe ciorbe.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.0,
+        "reviewCount": 182
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/688b685f8b27c6a567314296?w=900",
+      "https://imageproxy.wolt.com/assets/688b9347ea62287bd602d00c?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWme9kfy60v5050NvPnz7obf5O8FLGRVd_OOC4zJKMCE7KCFL8HYwAhL9i5bMkeNG82zfKRjb16F7E3SHWK9QBaIYRCpuXJY6Q1TgQP5Bo6CVvca_ZdHRGMVpHzsApZHg3thrJaZzgpFhO-K=w900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlgbaXKK04YUNgc37gaQzIAVBAoUKESYxIbHmzjS4t4yvyhLaVadUPDn-5n9a06ZHROiq7lVtDVm1kRdN8FBdvKuT8rNazSpIo1K_4PlgD2n-H64bjC-TdpRTbegeTmT0SMWlK88It-ijE=w900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b685f8b27c6a567314296?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9347ea62287bd602d00c?w=900",
+        "caption": "Mici porc-vită",
+        "dish": "mici",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://ciorbelaion.ro/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.5,
+      "count": 182,
+      "source": "Google",
+      "url": null,
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "dafin-constanta",
+    "name": "Dafin",
+    "kind": "restaurant",
+    "address": "Bd. Aurel Vlaicu nr. 325C",
+    "city": "Constanța",
+    "county": "Constanța",
+    "latitude": 44.21697,
+    "longitude": 28.62639,
+    "summary": "Restaurant cu bucătărie tradițională românească din Constanța, cu ciorbe, preparate la grătar și deserturi de casă.",
+    "specialties": [
+      "ciorba_de_burta",
+      "papanasi",
+      "mici"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://www.turistulliber.ro/restaurante/judetul-constanta/orasul-constanta/dafin-restaurantul-traditional-din-constanta-cu-bucate-romanesti/",
+      "https://www.turistulliber.ro/blog/aventuri-culinare/restaurante-constanta-unde-mananci-bine/",
+      "https://wolt.com/en/rou/constanta/restaurant/restaurant-dafin-688b3a275b40dc8d828ffd45",
+      "https://food.bolt.eu/en/462-constanta/p/149711-restaurant-dafin-constanta/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [
+      "mici"
+    ],
+    "photos": []
+  },
+  {
+    "id": "ca-odinioara-tulcea",
+    "name": "Ca Odinioară",
+    "kind": "restaurant",
+    "address": "Str. Viticulturii nr. 2",
+    "city": "Tulcea",
+    "county": "Tulcea",
+    "latitude": 45.17735,
+    "longitude": 28.79736,
+    "phone": "+40 742 455 541",
+    "website": "https://caodinioara.ro",
+    "summary": "Restaurant cu preparate tradiționale românești din Tulcea, mutat în locația de pe strada Viticulturii.",
+    "specialties": [
+      "ciorba_de_burta",
+      "mici"
+    ],
+    "ratings": [],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/menus-glovo/products/33fac426f013eb1b5f8b15aa63c7fc1fcdf1c344cad746742163ebfc1c07c7ad?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/590093/product/14977428136/d6478eff-955f-4f3f-a33a-1d390c0f5e14.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/590093/product/15003364304/95108e09-fb09-4b7e-a695-0a236b2ddda7.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/33fac426f013eb1b5f8b15aa63c7fc1fcdf1c344cad746742163ebfc1c07c7ad?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/590093/product/14977428136/d6478eff-955f-4f3f-a33a-1d390c0f5e14.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Mici cu cartofi prăjiți",
+        "dish": "mici",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/590093/product/15003364304/95108e09-fb09-4b7e-a695-0a236b2ddda7.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Papanaș cu dulceață și smântână",
+        "dish": "papanasi",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://caodinioara.ro/meniu/",
+      "https://caodinioara.ro/contact/",
+      "https://citymaps.ro/restaurant/tulcea/ca-odinioara/",
+      "https://www.tusitulcea.ro/ro/places/restaurant-ca-odinioara",
+      "https://www.tripadvisor.com/Restaurant_Review-g295395-d12339371-Reviews-Restaurant_Ca_odinioara-Tulcea_Tulcea_County_Southeast_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": []
+  },
+  {
+    "id": "casa-domneasca-braila",
+    "name": "Casa Domnească",
+    "kind": "restaurant",
+    "address": "Bd. Alexandru Ioan Cuza nr. 87",
+    "city": "Brăila",
+    "county": "Brăila",
+    "latitude": 45.2697,
+    "longitude": 27.9674,
+    "summary": "Restaurant din centrul Brăilei care îmbină bucătăria tradițională românească cu preparate internaționale.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.8,
+        "reviewCount": 70
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://casadomneasca.order.dish.co/menus",
+      "https://www.tripadvisor.ca/Restaurant_Review-g304057-d8788972-Reviews-Casa_Domneasca-Braila_Braila_County_Southeast_Romania.html",
+      "https://casadomneasca.eatbu.com/",
+      "https://zilesinopti.ro/locuri/casa-domneasca/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.4,
+      "count": 70,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g304057-d8788972-Reviews-Casa_Domneasca-Braila_Braila_County_Southeast_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "casa-vranceana-focsani",
+    "name": "Casa Vrânceană",
+    "kind": "restaurant",
+    "address": "Str. Simion Bărnuțiu nr. 7-9",
+    "city": "Focșani",
+    "county": "Vrancea",
+    "latitude": 45.69822,
+    "longitude": 27.18839,
+    "phone": "+40 237 231 052",
+    "website": "https://casavranceana.ro",
+    "summary": "Restaurant din centrul Focșaniului cu bucătărie românească și internațională.",
+    "specialties": [
+      "ciorba_de_burta",
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 7.2,
+        "reviewCount": 71
+      },
+      {
+        "dish": "papanasi",
+        "score": 7.2,
+        "reviewCount": 71
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/689dc6ec86461155a27b3ac7?w=900",
+      "https://imageproxy.wolt.com/assets/696e203b6d56bba1a43ab333?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/689dc6ec86461155a27b3ac7?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/696e203b6d56bba1a43ab333?w=900",
+        "caption": "Papanași cu brânză de vaci, smântână și dulceață",
+        "dish": "papanasi",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://wolt.com/en/rou/focsani/restaurant/casa-vranceana-67dd61585e61a1513fbf70c3",
+      "https://casavranceana.ro/wp-content/uploads/2024/07/meniu-restaurant-casa-vranceana_focsani.pdf",
+      "https://citymaps.ro/agent-de-catering/vrancea/casa-vranceana/",
+      "https://amfostacolo.ro/restaurant.php?r=casa-vranceana-restaurant-focsani&umID=1113",
+      "https://casavranceana.ro/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 3.6,
+      "count": 71,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g304058-d6360249-Reviews-Casa_Vranceana-Focsani_Vrancea_County_Southeast_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "piatra-scrisa-armenis",
+    "name": "Restaurant Piatra Scrisă",
+    "kind": "restaurant",
+    "address": "DN6, Piatra Scrisă",
+    "city": "Armeniș",
+    "county": "Caraș-Severin",
+    "latitude": 45.21732,
+    "longitude": 22.30117,
+    "phone": "+40 735 869 276",
+    "summary": "Restaurant de popas pe DN6, lângă Mănăstirea Piatra Scrisă, cu terasă și preparate tradiționale românești.",
+    "specialties": [
+      "mici",
+      "ciorba_de_burta"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://citymaps.ro/restaurant/caras-severin/restaurant-piatra-scrisa/",
+      "https://map24.ro/restaurant/caras-severin/52955",
+      "https://mapcarta.com/W224238550"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "oscar-iasi",
+    "name": "Restaurant Oscar",
+    "kind": "restaurant",
+    "address": "Str. Lascăr Catargi nr. 16",
+    "city": "Iași",
+    "county": "Iași",
+    "latitude": 47.171,
+    "longitude": 27.57979,
+    "phone": "0745 245 251",
+    "website": "https://restaurant-oscar.ro",
+    "summary": "Restaurant din centrul Iașului, în spatele Casei Studenților, cu bucătărie românească și internațională și livrare la domiciliu.",
+    "specialties": [
+      "papanasi",
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.6,
+        "reviewCount": 7244
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.6,
+        "reviewCount": 7244
+      }
+    ],
+    "photoURLs": [
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67dbec00b9a5543e6c3af498/2b9daeb0-bcbe-11f1-82fd-622971bd743c_item_img_51094944_t_112360000",
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67dbec00b9a5543e6c3af498/27341030-bcbe-11f1-a5f5-666ab279d544_item_img_52246439_t_618327000",
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67dbec00b9a5543e6c3af498/27476ea0-bcbe-11f1-a5f5-666ab279d544_item_img_257698382_t_12187000"
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QIzvomP3IrDuoNNhDKFBzaaV-EvvuVSJg-5bZy-k2v8JxwP80OP0EN1LtxEqy5oFQ8dnPMwex6n5Mn9dP1lRd0Qz9U9SjWViA2ClFaLHvOJydsoCBjSIlQAwfaBRtw80v4S2TP=w900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnyaGzyZsxKrREFMNwiB6_Mpx0nLscnV46Yt5Xkim9dAH4a5yERmv0ho634kjRC4y7kAtcuASu7ie2RDcPE3XgjwWcNEfBKQF6ThBGMFaiAgwgrtC85GrlWLZe0BpdWHr18g1fglMmE-EBM=w900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67dbec00b9a5543e6c3af498/2b9daeb0-bcbe-11f1-82fd-622971bd743c_item_img_51094944_t_112360000",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67dbec00b9a5543e6c3af498/27341030-bcbe-11f1-a5f5-666ab279d544_item_img_52246439_t_618327000",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67dbec00b9a5543e6c3af498/27476ea0-bcbe-11f1-a5f5-666ab279d544_item_img_257698382_t_12187000",
+        "caption": "Meniu mici",
+        "dish": "mici",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://iasilife.ro/cei-mai-buni-papanasi-din-iasi-top-3-restaurante/",
+      "https://restaurant-oscar.ro/produs/papanasi-250gr/",
+      "https://restaurant-oscar.ro/produs/ciorba-de-burta-100-300gr/",
+      "https://www.tripadvisor.com/Restaurant_Review-g304060-d2529879-Reviews-Restaurant_Oscar-Iasi_Iasi_County_Northeast_Romania.html",
+      "https://winesdayapp.ro/en/places/restaurant-oscar-iasi"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.3,
+      "count": 7244,
+      "source": "Google",
+      "url": null,
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "dolce-vita-vaslui",
+    "name": "Dolce Vita",
+    "kind": "restaurant",
+    "address": "Str. Ștefan cel Mare nr. 153",
+    "city": "Vaslui",
+    "county": "Vaslui",
+    "latitude": 46.63889,
+    "longitude": 27.73287,
+    "phone": "0771 325 299",
+    "website": "https://dolcevitavaslui.ro",
+    "summary": "Restaurant și pizzerie pe strada Ștefan cel Mare din Vaslui, cu meniu larg care include ciorbe și livrare la domiciliu.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.4,
+        "reviewCount": 621
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/680f72a9406d41c9a05fbcee?w=900",
+      "https://imageproxy.wolt.com/assets/680f72a6b732a7c70371fde7?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/680f72a9406d41c9a05fbcee?w=900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/680f72a6b732a7c70371fde7?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://dolcevitavaslui.ro/comanda-acum/papanasi/",
+      "https://zilesinopti.ro/locuri/dolce-vita-vaslui/",
+      "https://wolt.com/en/rou/vaslui/restaurant/restaurant-dolce-vita-67dd6489ed4206791c649a56"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [
+      "papanasi"
+    ],
+    "publicRating": {
+      "stars": 4.2,
+      "count": 621,
+      "source": "Google",
+      "url": "https://www.soimiigastronomiei.ro/profile-48848-dolce-vita",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "diesel-piatra-neamt",
+    "name": "Restaurant Diesel",
+    "kind": "restaurant",
+    "address": "Str. Petru Rareș nr. 21",
+    "city": "Piatra Neamț",
+    "county": "Neamț",
+    "latitude": 46.93422,
+    "longitude": 26.37283,
+    "phone": "0233 222 424",
+    "website": "https://restaurantdiesel.ro",
+    "summary": "Restaurant deschis în 1999 în Piatra Neamț, cu bucătărie tradițională și internațională, terasă de vară și livrare.",
+    "specialties": [
+      "papanasi",
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 9.0,
+        "reviewCount": 42
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.0,
+        "reviewCount": 42
+      }
+    ],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/444983/PRODUCT/27688976727/4fece908-6dde-4059-a2cb-583fff2b2ddf.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/444983/PRODUCT/27688976410/2849c10f-9675-41a6-a37e-841344f5f35a.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/menus-glovo/products/a33b9b7bdfbf51a68bd8268792fbff17a591be5d48635879134178cf2b29479a?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/444983/PRODUCT/27688976727/4fece908-6dde-4059-a2cb-583fff2b2ddf.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Papanași cu dulceață",
+        "dish": "papanasi",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/444983/PRODUCT/27688976410/2849c10f-9675-41a6-a37e-841344f5f35a.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/a33b9b7bdfbf51a68bd8268792fbff17a591be5d48635879134178cf2b29479a?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Mici cu muștar",
+        "dish": "mici",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://restaurantdiesel.ro/meniu/papanasi/",
+      "https://restaurantdiesel.ro/meniu/ciorba-de-burta/",
+      "https://restaurantdiesel.ro/contact/",
+      "https://www.tripadvisor.com/Restaurant_Review-g304062-d3625553-Reviews-Diesel-Piatra_Neamt_Neamt_County_Northeast_Romania.html",
+      "https://www.piatraneamtcity.ro/en/places/restaurant-diesel"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.5,
+      "count": 42,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g304062-d3625553-Reviews-Diesel-Piatra_Neamt_Neamt_County_Northeast_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "casa-bucovineana-suceava",
+    "name": "Casa Bucovineană",
+    "kind": "restaurant",
+    "address": "Str. Petru Rareș nr. 57B",
+    "city": "Suceava",
+    "county": "Suceava",
+    "latitude": 47.65048,
+    "longitude": 26.25489,
+    "phone": "0744 211 833",
+    "website": "https://restaurantcasabucovineana.ro",
+    "summary": "Restaurant cu specific bucovinean în centrul Suceavei, cu interior rustic și preparate tradiționale din zonă.",
+    "specialties": [
+      "papanasi",
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.0,
+        "reviewCount": 65
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.0,
+        "reviewCount": 65
+      }
+    ],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/menus-glovo/products/587e5c5d2a75980451569d68968c2821203cbfe8841b9b6d9c2413713deee3f6?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/372208/product/3302355400/97f27ad8-4002-44b3-852f-f270142a1c1e.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/menus-glovo/products/603a697fec4a020bc7fe041e579bc65de40e960025022238f698e5948506b61d?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/587e5c5d2a75980451569d68968c2821203cbfe8841b9b6d9c2413713deee3f6?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Papanași bucovineni",
+        "dish": "papanasi",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/372208/product/3302355400/97f27ad8-4002-44b3-852f-f270142a1c1e.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/603a697fec4a020bc7fe041e579bc65de40e960025022238f698e5948506b61d?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Mititei la grătar",
+        "dish": "mici",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://restaurantcasabucovineana.ro/produs/papanasi-cu-smantana/",
+      "https://restaurantcasabucovineana.ro/produs/ciorba-de-burta/",
+      "https://www.tripadvisor.com/Restaurant_Review-g304066-d10029509-Reviews-Casa_Bucovineana_Restaurant-Suceava_Suceava_County_Northeast_Romania.html",
+      "https://amfostacolo.ro/impresii9.php?iid=108089&d=unde-mancam-in-suceava--suceava"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.0,
+      "count": 65,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g304066-d10029509-Reviews-Casa_Bucovineana_Restaurant-Suceava_Suceava_County_Northeast_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "society-botosani",
+    "name": "Restaurant Society",
+    "kind": "restaurant",
+    "address": "Bd. Mihai Eminescu nr. 34B",
+    "city": "Botoșani",
+    "county": "Botoșani",
+    "latitude": 47.74257,
+    "longitude": 26.65524,
+    "phone": "0231 512 999",
+    "website": "https://www.societybotosani.ro",
+    "summary": "Restaurant lângă Parcul Mihai Eminescu din Botoșani, cu meniu variat care include preparate românești și livrare.",
+    "specialties": [
+      "ciorba_de_burta",
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.0,
+        "reviewCount": 1329
+      },
+      {
+        "dish": "mici",
+        "score": 8.0,
+        "reviewCount": 1329
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/6810d1ff25235780220d5671?w=900",
+      "https://imageproxy.wolt.com/assets/6810d1ff6a7b26ee2c681d33?w=900",
+      "https://imageproxy.wolt.com/assets/6810d2034259e9af8201246b?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6810d1ff25235780220d5671?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6810d1ff6a7b26ee2c681d33?w=900",
+        "caption": "Mici",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6810d2034259e9af8201246b?w=900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://www.societybotosani.ro/meniu-mancare-restaurant-society",
+      "https://www.societybotosani.ro/",
+      "https://www.tripadvisor.com/Restaurant_Review-g1784438-d10330893-Reviews-Society_Restaurant-Botosani_Botosani_County_Northeast_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [
+      "ciorba_de_burta",
+      "mici"
+    ],
+    "publicRating": {
+      "stars": 4.0,
+      "count": 1329,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/2910120/restaurant-society-restaurant-society-boto%C8%99ani",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "kayus-busteni",
+    "name": "Kayus",
+    "kind": "restaurant",
+    "address": "Str. Clăbucetului nr. 6",
+    "city": "Bușteni",
+    "county": "Prahova",
+    "latitude": 45.42015,
+    "longitude": 25.53816,
+    "phone": "+40 723 565 077",
+    "website": "https://kayus.ro/",
+    "summary": "Restaurant cu pensiune în Bușteni, cu bucătărie românească și internațională și vedere spre Munții Bucegi.",
+    "specialties": [
+      "ciorba_de_burta",
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.2,
+        "reviewCount": 121
+      },
+      {
+        "dish": "papanasi",
+        "score": 9.2,
+        "reviewCount": 121
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://kayus.ro/delivery/",
+      "https://www.tripadvisor.ca/ShowUserReviews-g656863-d19006684-r813300972-Kayus-Busteni_Prahova_County_Southern_Romania.html",
+      "https://www.tripadvisor.com/Restaurant_Review-g656863-d19006684-Reviews-Kayus-Busteni_Prahova_County_Southern_Romania.html",
+      "https://restograf.ro/ai-drum-la-munte-uite-cele-mai-bune-restaurante-de-pe-valea-prahovei/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [
+      "papanasi"
+    ],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.6,
+      "count": 121,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g656863-d19006684-Reviews-Kayus-Busteni_Prahova_County_Southern_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "la-etaj-busteni",
+    "name": "La Etaj",
+    "kind": "restaurant",
+    "address": "Bd. Libertății nr. 67",
+    "city": "Bușteni",
+    "county": "Prahova",
+    "latitude": 45.41236,
+    "longitude": 25.53439,
+    "summary": "Restaurant pe bulevardul principal din Bușteni, cu terasă la etaj și preparate românești și internaționale.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.6,
+        "reviewCount": 2635
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g656863-d17711423-Reviews-La_Etaj_Restaurant-Busteni_Prahova_County_Southern_Romania.html",
+      "https://wanderlog.com/ro/list/geoCategory/201614/unde-s%C4%83-m%C4%83n%C3%A2nci-cele-mai-bune-restaurante-din-bu%C8%99teni",
+      "https://www.sluurpy.com/en/busteni/restaurant/6038907/la-etaj-restaurant",
+      "https://amfostacolo.ro/restaurant.php?r=la-etaj-restaurant-busteni&umID=2069"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.3,
+      "count": 2635,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/1350352/la-etaj",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "garden-restaurant-buzau",
+    "name": "Garden Restaurant",
+    "kind": "restaurant",
+    "address": "Bd. Unirii nr. 202",
+    "city": "Buzău",
+    "county": "Buzău",
+    "latitude": 45.16961,
+    "longitude": 26.82124,
+    "phone": "+40 757 069 226",
+    "website": "https://gardenrestaurant.ro/",
+    "summary": "Restaurant cu grădină și terasă în Buzău, cu meniu à la carte de preparate internaționale și românești.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.4,
+        "reviewCount": 3087
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://aventurileomuluisimplu.ro/garden-restaurant-buzau-am-testat-unul-dintre-cele-mai-apreciate-restaurante-din-buzau/",
+      "https://gardenrestaurant.ro/",
+      "https://www.tripadvisor.com/Restaurant_Review-g616230-d14927490-Reviews-Garden_Restaurant-Buzau_Buzau_County_Southeast_Romania.html",
+      "https://wanderlog.com/place/details/2948875/garden-restaurant"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.7,
+      "count": 3087,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/2948875",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "rivo-restaurant-lounge-oradea",
+    "name": "Rivo Restaurant & Lounge",
+    "kind": "restaurant",
+    "address": "Aleea Ștrandului nr. 3",
+    "city": "Oradea",
+    "county": "Bihor",
+    "latitude": 47.05514,
+    "longitude": 21.9449,
+    "phone": "0770 444 445",
+    "website": "https://rivorestaurant.ro",
+    "summary": "Restaurant cu terasă pe malul Crișului Repede, cu bucătărie mediteraneană și europeană, care are papanași cu cremă de vanilie și mascarpone în meniu.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 9.0,
+        "reviewCount": 2882
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://rivorestaurant.ro/en/menu",
+      "https://www.tripadvisor.com/ShowUserReviews-g304061-d8452338-r532447880-Rivo_Restaurant_Lounge-Oradea_Bihor_County_Northwest_Romania_Transylvania.html",
+      "https://www.tripadvisor.com/Restaurant_Review-g304061-d8452338-Reviews-Rivo_Restaurant_Lounge-Oradea_Bihor_County_Northwest_Romania_Transylvania.html",
+      "https://wanderlog.com/place/details/900669/rivo"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.5,
+      "count": 2882,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/900669/rivo",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "bunatati-de-halmagiu-arad",
+    "name": "Bunătăți de Hălmagiu",
+    "kind": "bistro",
+    "address": "Piața Mihai Viteazul",
+    "city": "Arad",
+    "county": "Arad",
+    "latitude": 46.17864,
+    "longitude": 21.31641,
+    "phone": "0748 152 911",
+    "summary": "Bistro cu mâncare tradițională românească în Piața Mihai Viteazul, care servește mititei și preparate la grătar.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/680b888e059a3c2cf600c7ef?w=900",
+      "https://imageproxy.wolt.com/assets/680b8891842d85ba69edb986?w=900",
+      "https://imageproxy.wolt.com/assets/680b888e842d85ba69edb964?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/680b888e059a3c2cf600c7ef?w=900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/680b8891842d85ba69edb986?w=900",
+        "caption": "Papanași cu afine și smântână",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/680b888e842d85ba69edb964?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://wolt.com/en/rou/arad/restaurant/bunatati-de-halmagiu-67dac51d5416f96b8fd40616",
+      "https://www.cniptarad.ro/en/harta-locatie/271-bunatati-de-halmagiu",
+      "https://bookingham.ro/arad/restaurante/tag/romanesc"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [
+      "mici"
+    ]
+  },
+  {
+    "id": "bastion-baia-mare",
+    "name": "Restaurant Bastion",
+    "kind": "restaurant",
+    "address": "Str. Valea Roșie nr. 22",
+    "city": "Baia Mare",
+    "county": "Maramureș",
+    "latitude": 47.66493,
+    "longitude": 23.57307,
+    "phone": "0754 625 760",
+    "website": "https://www.hanbastion.ro",
+    "summary": "Restaurant cu bucătărie ardelenească și maramureșeană, cunoscut pentru plăcinte și deserturi tradiționale precum papanașii.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.8,
+        "reviewCount": 1670
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/ShowUserReviews-g304056-d7658799-r402069850-Bastion-Baia_Mare_Maramures_County_Northwest_Romania_Transylvania.html",
+      "https://www.tripadvisor.com/Restaurant_Review-g304056-d7658799-Reviews-or30-Bastion-Baia_Mare_Maramures_County_Northwest_Romania_Transylvania.html",
+      "https://wanderlog.com/place/details/2824882/bastion",
+      "https://www.hanbastion.ro/2026-03-Bastion-Meniu.pdf"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.4,
+      "count": 1670,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/2824882",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "butoiasu-cu-bere-baia-mare",
+    "name": "Butoiașu' cu Bere",
+    "kind": "berarie",
+    "address": "Str. Gheorghe Șincai nr. 15",
+    "city": "Baia Mare",
+    "county": "Maramureș",
+    "latitude": 47.65877,
+    "longitude": 23.57873,
+    "summary": "Berărie în centrul orașului Baia Mare, cu preparate românești la grătar, printre care mititei făcuți pe cărbuni.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 8.4,
+        "reviewCount": 1668
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://wanderlog.com/place/details/2824877/butoia%C8%99u-cu-bere",
+      "https://wanderlog.com/list/geoCategory/208203/where-to-eat-best-restaurants-in-maramures-county"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.2,
+      "count": 1668,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/2824877/butoia%C8%99u-cu-bere",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "restaurant-tei-satu-mare",
+    "name": "Restaurant Tei",
+    "kind": "restaurant",
+    "address": "Str. Lucian Blaga nr. 34",
+    "city": "Satu Mare",
+    "county": "Satu Mare",
+    "latitude": 47.77604,
+    "longitude": 22.88424,
+    "phone": "0261 764 891",
+    "website": "https://restaurant-tei.ro",
+    "summary": "Restaurant cu bucătărie tradițională românească și terasă de vară, cu papanași și ciorbă de burtă în meniu.",
+    "specialties": [
+      "papanasi",
+      "ciorba_de_burta"
+    ],
+    "ratings": [],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/384793/PRODUCT/3681224909/a150e96a-a571-487f-8286-bfa436ac00fd.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/menus-glovo/products/524163e355ff34ef652427320fa0157d0efb7d053eb8f6d00daff4b58b25409f?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/384793/PRODUCT/3681224909/a150e96a-a571-487f-8286-bfa436ac00fd.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Papanași cu smântână și gem de afine",
+        "dish": "papanasi",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/524163e355ff34ef652427320fa0157d0efb7d053eb8f6d00daff4b58b25409f?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://restaurant-tei.ro/meniu/",
+      "https://restaurant-tei.ro/",
+      "https://www.tripadvisor.com/Restaurant_Review-g737309-d12233440-Reviews-Tei_Restaurante-Satu_Mare_Satu_Mare_County_Northwest_Romania_Transylvania.html"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": []
+  },
+  {
+    "id": "hanul-drumetilor-zalau",
+    "name": "Hanul Drumeților",
+    "kind": "restaurant",
+    "address": "Str. Gheorghe Doja nr. 108",
+    "city": "Zalău",
+    "county": "Sălaj",
+    "latitude": 47.16803,
+    "longitude": 23.07138,
+    "phone": "0360 101 118",
+    "summary": "Han-restaurant în Zalău cu preparate românești și italiene, care are în meniu papanași și ciorbă de burtă.",
+    "specialties": [
+      "papanasi",
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.0,
+        "reviewCount": 1876
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.0,
+        "reviewCount": 1876
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g774862-d6762450-Reviews-Hanul_Drumetilor-Zalau_Salaj_County_Northwest_Romania_Transylvania.html",
+      "https://citymaps.ro/restaurant/salaj/hanul-drumetilor/",
+      "https://www.sluurpy.com/en/zalau/restaurant/6039259/hanul-drumetilor",
+      "https://zilesinopti.ro/locuri/hanul-drumetilor-zalau/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.0,
+      "count": 1876,
+      "source": "Google",
+      "url": "https://www.soimiigastronomiei.ro/profile-18858-hanul-drumetilor",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "casa-cu-bere-bistrita",
+    "name": "Casa cu Bere",
+    "kind": "berarie",
+    "address": "Str. Bistricioarei nr. 6",
+    "city": "Bistrița",
+    "county": "Bistrița-Năsăud",
+    "latitude": 47.13575,
+    "longitude": 24.50165,
+    "phone": "0790 403 342",
+    "summary": "Berărie și restaurant cu grătar în Bistrița, cu mici, papanași și ciorbă de burtă în meniu.",
+    "specialties": [
+      "papanasi",
+      "ciorba_de_burta",
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 9.0,
+        "reviewCount": 30
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.0,
+        "reviewCount": 30
+      },
+      {
+        "dish": "mici",
+        "score": 9.0,
+        "reviewCount": 30
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://romania.pricelisto.com/menu-prices/casa-cu-bere-ro",
+      "https://www.tripadvisor.com/Restaurant_Review-g315904-d13108288-Reviews-Casa_Cu_Bere-Bistrita_Bistrita_Nasaud_County_Northwest_Romania_Transylvania.html",
+      "https://zilesinopti.ro/locuri/casa-cu-bere/",
+      "https://untappd.com/v/casa-cu-bere/7495133",
+      "https://citymaps.ro/restaurant/bistrita-nasaud/czech-in-casa-cu-bere/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T74oKTRdVmfo-_V0f1VJe6OLJQpH3P9DBpAb8D456ozqdWAbsjDRCa-mqZE4jgCMm18qdgW5KKBwmwLeHY68TZ3jscRgTnzet_Ljy7MxUkktOwpBXspgW6P3sWTzr4c74dbPzF=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      }
+    ],
+    "publicRating": {
+      "stars": 4.5,
+      "count": 30,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g315904-d13108288-Reviews-Casa_Cu_Bere-Bistrita_Bistrita_Nasaud_County_Northwest_Romania_Transylvania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "casa-argeseana-pitesti",
+    "name": "Casa Argeșeană",
+    "kind": "restaurant",
+    "address": "Bd. Eroilor nr. 5",
+    "city": "Pitești",
+    "county": "Argeș",
+    "latitude": 44.85486,
+    "longitude": 24.87159,
+    "phone": "0348 455 404",
+    "website": "https://casaargeseana.ro",
+    "summary": "Restaurant cu bucătărie tradițională românească în centrul Piteștiului, vizavi de Muzeul Județean Argeș, cu terasă de vară.",
+    "specialties": [
+      "papanasi",
+      "mici",
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.6,
+        "reviewCount": 1997
+      },
+      {
+        "dish": "mici",
+        "score": 8.6,
+        "reviewCount": 1997
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.6,
+        "reviewCount": 1997
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/69386089dcf93820d6791659?w=900",
+      "https://imageproxy.wolt.com/assets/6814bd4edbeb952766e6112f?w=900",
+      "https://imageproxy.wolt.com/assets/6814bd4bdbeb952766e610fc?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk0S04SuXX4Q35yWNqSyafGRnwPVyXVdM7fOcWnDnTGBzButfbip01O3cOCwZi46r9phvNIwazqMO2yB1b1M5jdlSODfJ4Po5C2QZiVrxmRHREDdZSWdfAPvTlxv66mD0InZgfMuVPRgVEK=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWljZiby8i3j8PeMdhowsjAw68LK-MWFJ_BfwGqeWNBKCxQvwuw8CGbdyjQHNYuJclWL5uOzVx8dTs7JWHPloni0NnzNKlCEV00N5CZJnNu10htokKyCQpJXktPIt2-79ATfLEl1-g=w900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn8mxy7Kcp8sVeE-YONcnU7NkwLHvbgPCepaOdZCJf6O4ZrqPV21kP-W9BUoahoevB5H1PthZaSoM4Z08RnhOwmVxusJhDthVfUYnVXFc0wYwz0EicYb21EIJtkf0L_hJ4xRxFoiA=w900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/69386089dcf93820d6791659?w=900",
+        "caption": "Papanași Casa Argeșeană",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814bd4edbeb952766e6112f?w=900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814bd4bdbeb952766e610fc?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://casaargeseana.ro/en/menu/",
+      "https://casaargeseana.ro/contact/",
+      "https://epitesti.ro/stiri/caleidoscop/food-drink/cel-mai-iubit-restaurant-romanesc-din-pitesti-casa-argeseana",
+      "https://www.tripadvisor.com/Restaurant_Review-g304063-d12810366-Reviews-Casa_Argeseana-Pitesti_Arges_County_Southern_Romania.html"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.3,
+      "count": 1997,
+      "source": "Google",
+      "url": null,
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "casa-veche-ramnicu-valcea",
+    "name": "Casa Veche",
+    "kind": "restaurant",
+    "address": "Str. Știrbei Vodă nr. 160-162",
+    "city": "Râmnicu Vâlcea",
+    "county": "Vâlcea",
+    "latitude": 45.10564,
+    "longitude": 24.34722,
+    "phone": "0747 875 045",
+    "website": "https://restaurantcasaveche.ro",
+    "summary": "Restaurant cu mâncare românească de casă, amenajat într-o clădire veche din Râmnicu Vâlcea, cu servire la masă și livrare.",
+    "specialties": [
+      "papanasi",
+      "mici",
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 7.2,
+        "reviewCount": 50
+      },
+      {
+        "dish": "mici",
+        "score": 7.2,
+        "reviewCount": 50
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 7.2,
+        "reviewCount": 50
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://restaurantcasaveche.ro/ciorbe/",
+      "https://restaurantcasaveche.ro/gratar/",
+      "https://restaurantcasaveche.ro/desert/",
+      "https://www.tripadvisor.com/Restaurant_Review-g304065-d5550444-Reviews-Casa_Veche-Ramnicu_Valcea_Valcea_County_Southwest_Romania.html",
+      "https://amfostacolo.ro/restaurant.php?r=casa-veche-restaurant-ramnicu-valcea&umID=725",
+      "https://zilesinopti.ro/locuri/restaurant-casa-veche-ramnicu-valcea/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 3.6,
+      "count": 50,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g304065-d5550444-Reviews-Casa_Veche-Ramnicu_Valcea_Valcea_County_Southwest_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "la-familia-slatina",
+    "name": "La Familia",
+    "kind": "restaurant",
+    "address": "Bd. Alexandru Ioan Cuza nr. 5",
+    "city": "Slatina",
+    "county": "Olt",
+    "latitude": 44.42824,
+    "longitude": 24.36723,
+    "phone": "0744 431 251",
+    "summary": "Restaurant din centrul Slatinei cu preparate românești alături de câteva preparate spaniole și mexicane.",
+    "specialties": [
+      "ciorba_de_burta",
+      "mici",
+      "papanasi"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://www.meniudigital.ro/lafamilia",
+      "https://www.tripadvisor.com/Restaurant_Review-g777995-d18970080-Reviews-La_Familia-Slatina_Olt_County_Southwest_Romania.html",
+      "https://untappd.com/v/restaurant-la-familia/12703755",
+      "https://evendo.com/locations/romania/olt/restaurant/la-familia"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [
+      "ciorba_de_burta",
+      "mici",
+      "papanasi"
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QZsKeFNaKskjqVRjou2iGaJtuXDROfB0f2sPYNy2MmGvooPjdtaBn5g-eTIV6TswyiFj6nK5jufNz_Ec83UbYpvWZTXhlMXhkJMyvEXH5UE5YLkpSEFX9twpMQn0e3ZLLnTLSj=w900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Google Maps (proprietar)"
+      }
+    ]
+  },
+  {
+    "id": "casa-ghincea-craiova",
+    "name": "Casa Ghincea",
+    "kind": "restaurant",
+    "address": "Str. Madona Dudu nr. 31",
+    "city": "Craiova",
+    "county": "Dolj",
+    "latitude": 44.31681,
+    "longitude": 23.79176,
+    "phone": "0769 920 410",
+    "website": "https://casa-ghincea.ro",
+    "summary": "Restaurant cu bucătărie tradițională oltenească în zona centrală a Craiovei, cu muzică live în weekend.",
+    "specialties": [
+      "ciorba_de_burta",
+      "mici",
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.8,
+        "reviewCount": 2559
+      },
+      {
+        "dish": "mici",
+        "score": 8.8,
+        "reviewCount": 2559
+      },
+      {
+        "dish": "papanasi",
+        "score": 8.8,
+        "reviewCount": 2559
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/6814a14129a73b1a42666008?w=900",
+      "https://imageproxy.wolt.com/assets/6814a14002b806890026dbec?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814a14129a73b1a42666008?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814a14002b806890026dbec?w=900",
+        "caption": "Mici",
+        "dish": "mici",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://casa-ghincea.ro/meniu-casa-ghincea/",
+      "https://wolt.com/en/rou/craiova/restaurant/casa-ghincea-67dac2c321070572d8f7ac7a",
+      "https://travelreview.ro/top-restaurante-craiova/",
+      "https://www.tripadvisor.com/Restaurant_Review-g652095-d6949565-Reviews-Casa_Ghincea-Craiova_Dolj_County_Southwest_Romania.html"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.4,
+      "count": 2559,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/2059466/restaurant-casa-ghincea",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "casa-vera-targu-jiu",
+    "name": "Casa Vera",
+    "kind": "restaurant",
+    "address": "Str. Vasile Alecsandri nr. 51-53",
+    "city": "Târgu Jiu",
+    "county": "Gorj",
+    "latitude": 45.04331,
+    "longitude": 23.27034,
+    "phone": "0765 452 545",
+    "website": "https://www.pensiuneacasavera.ro",
+    "summary": "Restaurant cu terasă al Pensiunii Casa Vera, aproape de Parcul Central din Târgu Jiu, cu preparate tradiționale românești.",
+    "specialties": [
+      "ciorba_de_burta",
+      "mici",
+      "papanasi"
+    ],
+    "ratings": [],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/menus-glovo/products/b5063fbdc8516ba941d59f5ad795b083cf5e8f6e2e896a42afdebfbb2d285b4b?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/menus-glovo/products/c96f70047f393eeebf34338ac8344a91955ccf87c15c90c7bc7af95c46bd2118?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/429455/product/5127027110/f5777506-21cc-4cd3-86df-43b298b78d3f.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/b5063fbdc8516ba941d59f5ad795b083cf5e8f6e2e896a42afdebfbb2d285b4b?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/c96f70047f393eeebf34338ac8344a91955ccf87c15c90c7bc7af95c46bd2118?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Mititei Angus",
+        "dish": "mici",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/429455/product/5127027110/f5777506-21cc-4cd3-86df-43b298b78d3f.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://glovoapp.com/ro/ro/targu-jiu/stores/pensiunea-casa-vera",
+      "https://www.pensiuneacasavera.ro/restaurant/",
+      "https://www.pensiuneacasavera.ro/",
+      "https://www.tripadvisor.com/Restaurant_Review-g1598788-d17840172-Reviews-Casa_Vera_Pensiunea-Targu_Jiu_Gorj_County_Southwest_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [
+      "ciorba_de_burta",
+      "mici",
+      "papanasi"
+    ]
+  },
+  {
+    "id": "la-ceaun-piata-sfatului-brasov",
+    "name": "La Ceaun – Piața Sfatului",
+    "kind": "restaurant",
+    "address": "Piața Sfatului nr. 11-12",
+    "city": "Brașov",
+    "county": "Brașov",
+    "latitude": 45.64192,
+    "longitude": 25.58973,
+    "website": "https://www.laceaun.ro/",
+    "summary": "Restaurant cu mâncare tradițională românească gătită la ceaun, situat în Piața Sfatului din centrul istoric al Brașovului.",
+    "specialties": [
+      "ciorba_de_burta",
+      "papanasi",
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.4,
+        "reviewCount": 11788
+      },
+      {
+        "dish": "papanasi",
+        "score": 9.4,
+        "reviewCount": 11788
+      },
+      {
+        "dish": "mici",
+        "score": 9.4,
+        "reviewCount": 11788
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/699d297314f2a96f977693ae?w=900",
+      "https://imageproxy.wolt.com/assets/699d29ccea4a83292eeebf8a?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/699d297314f2a96f977693ae?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/699d29ccea4a83292eeebf8a?w=900",
+        "caption": "Mititei cu muștar și cartofi aurii",
+        "dish": "mici",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/LocationPhotoDirectLink-g295394-d12450557-i626122873-La_Ceaun_Piata_Sfatului-Brasov_Brasov_County_Central_Romania_Transylvan.html",
+      "https://www.meniu.tv/2020/07/restaurant-traditional-romanesc-in.html",
+      "https://www.laceaun.ro/la-ceaun-piata-sfatului/",
+      "https://www.tripadvisor.com/Restaurant_Review-g295394-d12450557-Reviews-La_Ceaun_Piata_Sfatului-Brasov_Brasov_County_Central_Romania_Transylvania.html",
+      "https://wanderlog.com/place/details/1005850/la-ceaun-piata-sfatului"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.7,
+      "count": 11788,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/1005850/la-ceaun-piata-sfatului",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "bistro-de-l-arte-brasov",
+    "name": "Bistro de l'Arte",
+    "kind": "bistro",
+    "address": "Piața George Enescu nr. 11 bis",
+    "city": "Brașov",
+    "county": "Brașov",
+    "latitude": 45.6433,
+    "longitude": 25.59088,
+    "phone": "+40 720 535 566",
+    "website": "https://bistrodelarte.ro/",
+    "summary": "Bistro în centrul istoric al Brașovului, cu bucătărie românească și europeană, care servește papanași fierți cu brânză de vaci.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 9.2,
+        "reviewCount": 4679
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://bistrodelarte.ro/meniu",
+      "https://life.ro/unde-mancam-cei-mai-buni-papanasi-10-locuri-recomandate/",
+      "https://www.tripadvisor.com/ShowUserReviews-g295394-d1106431-r689204126-Bistro_de_l_Arte-Brasov_Brasov_County_Central_Romania_Transylvania.html",
+      "https://www.tripadvisor.com/Restaurant_Review-g295394-d1106431-Reviews-Bistro_de_l_Arte-Brasov_Brasov_County_Central_Romania_Transylvania.html",
+      "https://wanderlog.com/place/details/1005948"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.6,
+      "count": 4679,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/1005948/bistro-de-larte",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "la-strada-sighisoara",
+    "name": "La Strada",
+    "kind": "restaurant",
+    "address": "Str. Cositorarilor nr. 2",
+    "city": "Sighișoara",
+    "county": "Mureș",
+    "latitude": 46.21881,
+    "longitude": 24.79238,
+    "phone": "0748 495 173",
+    "website": "https://www.lastradasighisoara.ro/",
+    "summary": "Restaurant cu preparate românești și transilvănene în Cetatea Sighișoarei, cu mese în interior și pe stradă.",
+    "specialties": [
+      "ciorba_de_burta",
+      "papanasi"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://www.lastradasighisoara.ro/restaurant-la-strada/",
+      "https://www.rjontour.com/restaurants-sighisoara/",
+      "https://www.tripadvisor.com/Restaurant_Review-g311309-d33228727-Reviews-La_Strada-Sighisoara_Mures_County_Central_Romania_Transylvania.html",
+      "https://casa-la-strada-sighisoara.hotelmix.ro/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "la-conac-alba-iulia",
+    "name": "La Conac",
+    "kind": "restaurant",
+    "address": "Str. Decebal nr. 10",
+    "city": "Alba Iulia",
+    "county": "Alba",
+    "latitude": 46.06947,
+    "longitude": 23.57787,
+    "phone": "0720 042 004",
+    "summary": "Restaurant cu bucătărie tradițională transilvăneană, aflat pe strada Decebal, aproape de Cetatea Alba Carolina.",
+    "specialties": [
+      "ciorba_de_burta",
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.0,
+        "reviewCount": 4183
+      },
+      {
+        "dish": "papanasi",
+        "score": 9.0,
+        "reviewCount": 4183
+      }
+    ],
+    "photoURLs": [
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67e52e80738f13b0c1e342cb/5d6e4dda-6172-11f0-b476-da69eabcc1f0_img25778905_20250715135759635.png",
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67e52e80738f13b0c1e342cb/f6bc2b62-a34c-11f0-807c-c6bb1c2271d7_img25779027_20251007101040932.jpeg",
+      "https://wolt-menu-images-cdn.wolt.com/menu-images/67e52e80738f13b0c1e342cb/a59b23f6-8bf8-11f1-b284-4e2e8d908d85_img25779000_20260730121133503.jpeg"
+    ],
+    "photos": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67e52e80738f13b0c1e342cb/5d6e4dda-6172-11f0-b476-da69eabcc1f0_img25778905_20250715135759635.png",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67e52e80738f13b0c1e342cb/f6bc2b62-a34c-11f0-807c-c6bb1c2271d7_img25779027_20251007101040932.jpeg",
+        "caption": "Papanași cu ciocolată sau dulceață de afine",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/67e52e80738f13b0c1e342cb/a59b23f6-8bf8-11f1-b284-4e2e8d908d85_img25779000_20260730121133503.jpeg",
+        "caption": "3 mici cu cartofi prăjiți",
+        "dish": "mici",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g315903-d16337543-Reviews-La_Conac-Alba_Iulia_Alba_County_Central_Romania_Transylvania.html",
+      "https://citymaps.ro/restaurant/alba/la-conac/",
+      "https://untappd.com/v/la-conac/10102627"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.5,
+      "count": 4183,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/2722008/la-conac",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "popasul-castelului-hunedoara",
+    "name": "Popasul Castelului",
+    "kind": "restaurant",
+    "address": "Str. Cloșca nr. 2",
+    "city": "Hunedoara",
+    "county": "Hunedoara",
+    "latitude": 45.75247,
+    "longitude": 22.89457,
+    "phone": "0774 055 420",
+    "website": "https://10193682.wixsite.com/websitepopasul",
+    "summary": "Restaurant cu mâncare românească în stil rustic, la câteva minute de mers pe jos de Castelul Corvinilor.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.4,
+        "reviewCount": 1372
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://citymaps.ro/restaurant/hunedoara/popasul-castelului/",
+      "https://wanderlog.com/place/details/2382726/popasul-castelului",
+      "https://wanderlog.com/list/geoCategory/202677/where-to-eat-best-restaurants-in-hunedoara",
+      "https://map24.ro/restaurant/hunedoara/63707"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.2,
+      "count": 1372,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/2382726/popasul-castelului",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "corviniana-hunedoara",
+    "name": "Hotel Restaurant Corviniana",
+    "kind": "restaurant",
+    "address": "Str. Constantin Bursan nr. 1",
+    "city": "Hunedoara",
+    "county": "Hunedoara",
+    "latitude": 45.75221,
+    "longitude": 22.89392,
+    "phone": "0721 798 171",
+    "website": "http://www.corviniana.ro/",
+    "summary": "Restaurantul unei vile din Hunedoara, lângă Castelul Corvinilor, cu preparate românești de casă servite într-un decor de epocă.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.8,
+        "reviewCount": 1321
+      }
+    ],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/menus-glovo/products/39b3feb9890241302230ebc33276179112bb3ecee9ac939fd75d5189cc763b44?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/39b3feb9890241302230ebc33276179112bb3ecee9ac939fd75d5189cc763b44?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://wanderlog.com/place/details/2771686",
+      "https://wanderlog.com/list/geoCategory/202677/where-to-eat-best-restaurants-in-hunedoara",
+      "https://www.tripadvisor.com/Restaurant_Review-g675106-d13336631-Reviews-Vila_Corviniana-Hunedoara_Hunedoara_County_Western_Romania_Transylvania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.4,
+      "count": 1321,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/2771686/hotel-corviniana",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "miorita-bacau",
+    "name": "Restaurant Miorița",
+    "kind": "restaurant",
+    "address": "Str. Mioriței nr. 3",
+    "city": "Bacău",
+    "county": "Bacău",
+    "latitude": 46.57395,
+    "longitude": 26.91315,
+    "phone": "+40 234 510 477",
+    "summary": "Restaurant cu bucătărie tradițională românească din Bacău, cunoscut pentru ciorbe, care se prezintă ca funcționând din 1977.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.4,
+        "reviewCount": 2495
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/680f82fe3f9c6b4bc61883fa?w=900",
+      "https://imageproxy.wolt.com/assets/680f82ff3f9c6b4bc618840b?w=900",
+      "https://imageproxy.wolt.com/assets/681b07bf6b3c9629e3112f9d?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/680f82fe3f9c6b4bc61883fa?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/680f82ff3f9c6b4bc618840b?w=900",
+        "caption": "Mititei la grătar",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/681b07bf6b3c9629e3112f9d?w=900",
+        "caption": "Papanași cu smântână și dulceață",
+        "dish": "papanasi",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://citymaps.ro/restaurant/bacau/restaurant-miorita-bacau/",
+      "https://map24.ro/restaurant/bacau/104592",
+      "https://www.tripadvisor.com/Restaurant_Review-g608954-d3746269-Reviews-Miorita-Bacau_Bacau_County_Northeast_Romania.html",
+      "https://wolt.com/en/rou/bacau/restaurant/restaurant-miorita-67db02483a31651eb80ded49",
+      "https://bacauanul.ro/restaurant-miorita-bacau/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.2,
+      "count": 2495,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/2064860",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "beraria-veche-iasi",
+    "name": "Berăria Veche",
+    "kind": "berarie",
+    "address": "Str. Sărărie nr. 212",
+    "city": "Iași",
+    "county": "Iași",
+    "latitude": 47.18147,
+    "longitude": 27.57227,
+    "phone": "+40 232 464 632",
+    "summary": "Berărie cu terasă pe strada Sărărie din Iași, cu mâncare tradițională românească și porții de mici.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 7.8,
+        "reviewCount": 65
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://zilesinopti.ro/2025/05/16/6-locuri-unde-mananci-mici-buni/",
+      "https://zilesinopti.ro/2024/04/30/mici-in-iasi/",
+      "https://zilesinopti.ro/locuri/beraria-veche/",
+      "https://deschis.ro/iasi/beraria-veche-95528"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 3.9,
+      "count": 65,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g304060-d3710498-Reviews-Beraria_Veche-Iasi_Iasi_County_Northeast_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "mondial-targoviste",
+    "name": "Mondial (Bistro, Cofetărie, Restaurant)",
+    "kind": "restaurant",
+    "address": "Str. Libertății nr. 2",
+    "city": "Târgoviște",
+    "county": "Dâmbovița",
+    "latitude": 44.92708,
+    "longitude": 25.46117,
+    "phone": "0749 258 943",
+    "website": "https://mondial-targoviste.ro/",
+    "summary": "Complex cu bistro, cofetărie și restaurant lângă Palatul Prefecturii din Târgoviște, cu meniu de mâncare tradițională românească.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/menus-glovo/products/fa9c1d98607ec2214cf1481ad3eab02f54cda7a4dac611610f09e42f5b0184ce?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/fa9c1d98607ec2214cf1481ad3eab02f54cda7a4dac611610f09e42f5b0184ce?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://mondial-targoviste.ro/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [
+      "ciorba_de_burta"
+    ]
+  },
+  {
+    "id": "roata-cluj-napoca",
+    "name": "Restaurant Roata",
+    "kind": "restaurant",
+    "address": "Str. Alexandru Ciurea nr. 6",
+    "city": "Cluj-Napoca",
+    "county": "Cluj",
+    "latitude": 46.77027,
+    "longitude": 23.58405,
+    "phone": "+40 264 592 022",
+    "website": "http://restaurant-roata.ro/",
+    "summary": "Restaurant cu bucătărie tradițională ardelenească și curte interioară, aproape de centrul Clujului.",
+    "specialties": [
+      "papanasi",
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 9.2,
+        "reviewCount": 6642
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.2,
+        "reviewCount": 6642
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "papanasi",
+        "note": null,
+        "tags": [
+          "cu smântână și dulceață"
+        ]
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/681b39d83482d40c1820bf06?w=900",
+      "https://imageproxy.wolt.com/assets/681b39e19a7799bb463850ef?w=900",
+      "https://imageproxy.wolt.com/assets/681b39e49a7799bb463850f2?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/681b39d83482d40c1820bf06?w=900",
+        "caption": "Papanași cu gem și smântână",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/681b39e19a7799bb463850ef?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/681b39e49a7799bb463850f2?w=900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/ShowUserReviews-g298474-d739946-r863758586-Roata-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html",
+      "https://www.tripadvisor.in/Restaurant_Review-g298474-d739946-Reviews-Roata-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html",
+      "https://bookingham.ro/cluj-napoca/restaurante/roata/68"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.6,
+      "count": 6642,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/798110/roata",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "la-crama-hunedoara",
+    "name": "La Cramă",
+    "kind": "restaurant",
+    "address": "Bd. Libertății nr. 25",
+    "city": "Hunedoara",
+    "county": "Hunedoara",
+    "latitude": 45.75413,
+    "longitude": 22.89669,
+    "phone": "+40 254 713 399",
+    "summary": "Restaurant cu preparate tradiționale românești și terasă, pe Bulevardul Libertății din Hunedoara.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 8.6,
+        "reviewCount": 3063
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "cu muștar și pâine",
+          "cu cartofi pai"
+        ]
+      }
+    ],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/menus-glovo/products/fdd4a24cf4dabd94d396d9499ff1c988bece705cc2f83981e7213ab3031ed126?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/menus-glovo/products/30dc730369fe0c25791528959c1d167443653bf4e795d5927085dddbf12b7c9b?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/239859/PRODUCT/6785145800/14a33519-6a9e-4701-be2e-6c382b3bac3e.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/fdd4a24cf4dabd94d396d9499ff1c988bece705cc2f83981e7213ab3031ed126?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Mici cu cartofi pai și muștar",
+        "dish": "mici",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/30dc730369fe0c25791528959c1d167443653bf4e795d5927085dddbf12b7c9b?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Papanași cu dulceață",
+        "dish": "papanasi",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/239859/PRODUCT/6785145800/14a33519-6a9e-4701-be2e-6c382b3bac3e.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://glovoapp.com/ro/en/hunedoara/la-crama/",
+      "https://wanderlog.com/place/details/2771667/la-cram%C4%83",
+      "https://www.tripadvisor.com/Restaurant_Review-g675106-d8605599-Reviews-La_Crama-Hunedoara_Hunedoara_County_Western_Romania_Transylvania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [
+      "mici"
+    ],
+    "publicRating": {
+      "stars": 4.3,
+      "count": 3063,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/2771667/la-cram%C4%83",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "terra-restaurant-calarasi",
+    "name": "Terra Restaurant",
+    "kind": "restaurant",
+    "address": "Aleea Dumbrava Minunată nr. 2",
+    "city": "Călărași",
+    "county": "Călărași",
+    "latitude": 44.19544,
+    "longitude": 27.31906,
+    "phone": "+40 738 313 248",
+    "summary": "Restaurant cu terasă lângă parcul Dumbrava din Călărași, cu bucătărie românească și deserturi de casă.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://citymaps.ro/restaurant/calarasi/terra-restaurant/",
+      "https://map24.ro/restaurant/calarasi/22599",
+      "https://evendo.com/locations/romania/calarasi/restaurant/restaurant-terra"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "restaurant-dumbrava-calarasi",
+    "name": "Restaurant Dumbrava",
+    "kind": "restaurant",
+    "address": "Str. Eroilor nr. 1, Parcul Dumbrava",
+    "city": "Călărași",
+    "county": "Călărași",
+    "latitude": 44.19261,
+    "longitude": 27.32633,
+    "phone": "+40 724 341 055",
+    "summary": "Restaurant de familie cu terasă în parcul Dumbrava din Călărași, cu preparate tradiționale românești.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.6,
+        "reviewCount": 20
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": [
+          "cu smântână"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://amfostacolo.ro/impresii9.php?iid=83459&d=unde-mancam-in-calarasi--calarasi",
+      "https://restaurantdumbrava.metro.rest/?lang=en",
+      "https://zilesinopti.ro/locuri/restaurant-dumbrava-calarasi/",
+      "https://citymaps.ro/agent-de-catering/calarasi/restaurant-dumbrava/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.3,
+      "count": 20,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g1106263-d21173555-Reviews-Restaurant_La_Dumbrava-Calarasi_Calarasi_County_Southern_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "restaurant-comtot-oltenita",
+    "name": "Restaurant Comtot",
+    "kind": "restaurant",
+    "address": "Str. Mihai Bravu nr. 110",
+    "city": "Oltenița",
+    "county": "Călărași",
+    "latitude": 44.08816,
+    "longitude": 26.64098,
+    "phone": "+40 723 198 885",
+    "website": "https://comtotrestaurant.wixsite.com/restaurant",
+    "summary": "Restaurant de familie din centrul Olteniței, deschis din anii '90, cu bucătărie tradițională românească, grătar și pizza.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 8.4,
+        "reviewCount": 336
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://comtotrestaurant.wixsite.com/restaurant",
+      "https://www.tripadvisor.com/Restaurant_Review-g2641232-d27737731-Reviews-Restaurant_Comtot-Oltenita_Calarasi_County_Southern_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [
+      "mici"
+    ],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.2,
+      "count": 336,
+      "source": "Google",
+      "url": "https://www.soimiigastronomiei.ro/profile-44398-restaurant-comtot",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "andy-hotel-km36-a1-gaiseni",
+    "name": "Andy Hotel Km 36 A1 – Brasserie",
+    "kind": "restaurant",
+    "address": "Autostrada A1 km 36",
+    "city": "Găiseni",
+    "county": "Giurgiu",
+    "latitude": 44.47974,
+    "longitude": 25.67315,
+    "website": "https://km36-a1.ro/",
+    "summary": "Restaurant de hotel la km 36 pe autostrada A1, cu preparate românești și internaționale.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g1026057-d17600399-Reviews-Andy_Hotel_KM_36_A1-Giurgiu_Giurgiu_County_Southern_Romania.html",
+      "https://km36-a1.ro/restaurant/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "alexander-restaurant-bar-alexandria",
+    "name": "Alexander – Restaurant, Bar, Cofetărie",
+    "kind": "restaurant",
+    "address": "Str. Libertății bl. A3, parter",
+    "city": "Alexandria",
+    "county": "Teleorman",
+    "latitude": 43.96948,
+    "longitude": 25.33261,
+    "phone": "0722 845 084",
+    "website": "https://alexanderbar.ro/",
+    "summary": "Restaurant, bar și cofetărie cu terasă în centrul Alexandriei, vizavi de pompieri.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": [
+          "cu sos de usturoi"
+        ]
+      }
+    ],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/489727/product/11715619192/d648e50b-362d-4280-a413-ce07e983060c.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/489727/product/11715619192/d648e50b-362d-4280-a413-ce07e983060c.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://citymaps.ro/restaurant/teleorman/alexander-restaurant-bar/",
+      "https://alexanderbar.ro/meniu/",
+      "https://zilesinopti.ro/locuri/alexander-bar/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": []
+  },
+  {
+    "id": "hanul-cu-noroc-alexandria",
+    "name": "Hanul cu Noroc",
+    "kind": "restaurant",
+    "address": "Șos. Alexandria–Roșiorii de Vede nr. 1",
+    "city": "Alexandria",
+    "county": "Teleorman",
+    "latitude": 43.98063,
+    "longitude": 25.31141,
+    "phone": "+40 747 406 012",
+    "website": "https://hanulcunoroc.com/",
+    "summary": "Han cu restaurant, grădină de vară și cazare la ieșirea din Alexandria spre Roșiorii de Vede, cu bucătărie tradițională și internațională.",
+    "specialties": [
+      "mici",
+      "papanasi"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "papanasi",
+        "note": null,
+        "tags": [
+          "cu smântână",
+          "cu dulceață"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://food.hanulcunoroc.com/",
+      "https://hanul-cu-noroc-alexandria.hotelmix.ro/",
+      "https://www.tripadvisor.com/Hotel_Review-g4172078-d9707539-Reviews-Hanul_cu_Noroc-Alexandria_Teleorman_County_Southern_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [
+      "mici",
+      "papanasi"
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RKGTSDQTYLo2NNUTCQHme4seW-k6oFvoS64-9UNC2SLMqgJ5StUdsIs629TaA4ODUL-Vpj69VWjgQZEsBGHVp9YOphAX6FabCHfuq5C91BHdXZiGg6UjLuLplWFB7t_eheZQ-Ylg=w900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Google Maps (proprietar)"
+      }
+    ]
+  },
+  {
+    "id": "restaurant-rustic-fetesti",
+    "name": "Restaurant Rustic",
+    "kind": "restaurant",
+    "address": "Str. Depoului / Str. Călărași, Fetești-Gară",
+    "city": "Fetești",
+    "county": "Ialomița",
+    "latitude": 44.41622,
+    "longitude": 27.81592,
+    "summary": "Restaurant cu grădină și interior rustic în Fetești-Gară, cu preparate românești și pizza.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "papanasi",
+        "note": null,
+        "tags": [
+          "cu ciocolată",
+          "cu frișcă"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g11885486-d10123264-Reviews-Restaurant_Rustic-Fetesti_Ialomita_County_Southern_Romania.html",
+      "https://amfostacolo.ro/impresii9.php?iid=88787&d=unde-mancam-in-fetesti--fetesti",
+      "https://amfostacolo.ro/restaurant.php?r=rustic-fetesti-gara-restaurant-fetesti&umID=1505"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "kon-tiki-sibiu",
+    "name": "Kon Tiki",
+    "kind": "restaurant",
+    "address": "Str. Tudor Vladimirescu nr. 12",
+    "city": "Sibiu",
+    "county": "Sibiu",
+    "latitude": 45.80166,
+    "longitude": 24.13942,
+    "phone": "+40 269 220 350",
+    "summary": "Pensiune-restaurant cu bucătărie românească pe strada Tudor Vladimirescu, cunoscut local pentru ciorba de burtă.",
+    "specialties": [
+      "ciorba_de_burta",
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.0,
+        "reviewCount": 70
+      },
+      {
+        "dish": "mici",
+        "score": 9.0,
+        "reviewCount": 70
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": [
+          "porții generoase",
+          "ingrediente de la producători locali"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.oradesibiu.ro/2023/04/12/unde-se-mananca-cea-mai-buna-ciorba-de-burta-din-sibiu-kon-tiki-si-prima-in-top-cea-mai-ieftina-la-cantina-studenteasca/",
+      "https://sibiulazi.ro/2026/05/02/harta-locurilor-cu-cei-mai-laudati-mici-din-sibiu-cand-au-aparut-mititeii-care-i-au-cucerit-pe-romani/",
+      "https://www.oradesibiu.ro/2023/04/27/unde-mancam-cei-mai-buni-mici-la-sibiu-terasele-din-piata-cibin-si-la-nea-gigi-in-targul-obor-pe-primele-locuri/",
+      "https://www.tripadvisor.com/Restaurant_Review-g295393-d7370490-Reviews-Kon_Tiki_Restaurant-Sibiu_Sibiu_County_Central_Romania_Transylvania.html",
+      "https://amfostacolo.ro/impresii9.php?iid=77199&d=unde-mancam-in-sibiu-si-imprejurimi--sibiu",
+      "https://sibiucityapp.ro/en/places/kon-tiki-bfqjlqw6cn25gw"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.5,
+      "count": 70,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g295393-d7370490-Reviews-Kon_Tiki_Restaurant-Sibiu_Sibiu_County_Central_Romania_Transylvania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "karlsburg-alba-iulia",
+    "name": "Restaurant Karlsburg",
+    "kind": "restaurant",
+    "address": "Str. Decebal nr. 12",
+    "city": "Alba Iulia",
+    "county": "Alba",
+    "latitude": 46.06996,
+    "longitude": 23.57719,
+    "website": "https://www.restaurantkarlsburg.ro",
+    "summary": "Restaurant din Alba Iulia cu preparate românești și internaționale, cu livrare la domiciliu.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 9.6,
+        "reviewCount": 977
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": "platou de mici la grill",
+        "tags": [
+          "cu cartofi prăjiți",
+          "cu muștar"
+        ]
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/6a3b66e9c3bb1f158fe9bd03?w=900",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/588603/product/b9b85c17-ee92-475a-ac30-9c187ae27b4b.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://imageproxy.wolt.com/assets/6a3b7cad1eb69a0aa22508a1?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6a3b66e9c3bb1f158fe9bd03?w=900",
+        "caption": "Platou de mici",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/588603/product/b9b85c17-ee92-475a-ac30-9c187ae27b4b.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Biluțe crocante de papanași",
+        "dish": "papanasi",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6a3b7cad1eb69a0aa22508a1?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://www.restaurantkarlsburg.ro/en/meniurestaurant/platoudemicilagrill",
+      "https://wolt.com/en/rou/alba-iulia/restaurant/karlsburg-67db01193a31651eb80dec96",
+      "https://www.tripadvisor.com/Restaurant_Review-g315903-d25461568-Reviews-Restaurant_Karlsburg-Alba_Iulia_Alba_County_Central_Romania_Transylvania.html"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [
+      "mici"
+    ],
+    "publicRating": {
+      "stars": 4.8,
+      "count": 977,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/7637494/restaurant-karlsburg",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "pava-csik-miercurea-ciuc",
+    "name": "Páva Csík",
+    "kind": "restaurant",
+    "address": "Bd. Frăției nr. 30/B",
+    "city": "Miercurea Ciuc",
+    "county": "Harghita",
+    "latitude": 46.3564,
+    "longitude": 25.8133,
+    "website": "https://pava.ro/",
+    "summary": "Restaurant cu bucătărie ardelenească reinterpretată, deschis la sfârșitul lui 2025 ca unitate soră a restaurantului Páva din Odorheiu Secuiesc.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "ciorba_de_burta",
+        "note": "ciorbă de burtă ceangăiască (csángó pacalleves)",
+        "tags": [
+          "cu tarhon"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://magyarnemzet.hu/repeta/2025/12/dedanyaink-konyhaja-korszeru-felfogasban-megnyitott-a-pava-etterem-testveregysege-csikszeredaban",
+      "https://visitharghita.com/en/places/pava-ciuc"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "casa-bunicii-garden-timisoara",
+    "name": "Casa Bunicii Garden",
+    "kind": "restaurant",
+    "address": "Str. Mareșal Alexandru Averescu nr. 1B",
+    "city": "Timișoara",
+    "county": "Timiș",
+    "latitude": 45.73266,
+    "longitude": 21.22014,
+    "phone": "+40 723 656 918",
+    "website": "https://www.casa-bunicii.ro/",
+    "summary": "Restaurant cu grădină care servește mâncare tradițională bănățeană și românească după rețete de familie.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.6,
+        "reviewCount": 3013
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "papanasi",
+        "note": null,
+        "tags": [
+          "smântână",
+          "dulceață"
+        ]
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/68a81831324d140dfd41a1b3?w=900",
+      "https://imageproxy.wolt.com/assets/68d7dbb160bb5cefbae4ded4?w=900",
+      "https://imageproxy.wolt.com/assets/68148ee686d7efe7c679efdb?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-bunicii-garden-timisoara/papanasi-cu-afine.jpg",
+        "caption": "Papanași cu afine",
+        "dish": "papanasi",
+        "source": "Casa Bunicii (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-bunicii-garden-timisoara/papanasi-cu-afine-si-smantana.jpg",
+        "caption": "Papanași cu afine și smântână",
+        "dish": "papanasi",
+        "source": "Casa Bunicii (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-bunicii-garden-timisoara/papanasi-detaliu.jpg",
+        "caption": "Papanași de la Casa Bunicii",
+        "dish": "papanasi",
+        "source": "Casa Bunicii (oficial)"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/68a81831324d140dfd41a1b3?w=900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/68d7dbb160bb5cefbae4ded4?w=900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/68148ee686d7efe7c679efdb?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://life.ro/unde-mancam-cei-mai-buni-papanasi-10-locuri-recomandate/",
+      "https://www.tripadvisor.com/Restaurant_Review-g298478-d2043571-Reviews-Casa_Bunicii_Garden-Timisoara_Timis_County_Western_Romania_Transylvania.html",
+      "https://www.tripadvisor.com/ShowUserReviews-g298478-d2043571-r619003428-Casa_Bunicii_Garden-Timisoara_Timis_County_Western_Romania_Transylvania.html",
+      "https://www.casa-bunicii.ro/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.3,
+      "count": 3013,
+      "source": "Google",
+      "url": null,
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "lloyd-timisoara",
+    "name": "Lloyd",
+    "kind": "restaurant",
+    "address": "Piața Victoriei nr. 2",
+    "city": "Timișoara",
+    "county": "Timiș",
+    "latitude": 45.75348,
+    "longitude": 21.2252,
+    "website": "https://lloydtimisoara.ro/",
+    "summary": "Restaurant istoric în Palatul Lloyd din Piața Victoriei, cu bucătărie românească și europeană.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.8,
+        "reviewCount": 1190
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": [
+          "cu ardei iute",
+          "cu smântână"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://degustam.ro/top-5-ciorbe-de-burta-din-timisoara/",
+      "https://www.sluurpy.com/en/timisoara/restaurant/6065070/restaurant-lloyd",
+      "https://www.tripadvisor.com/Restaurant_Review-g298478-d1106513-Reviews-Lloyd-Timisoara_Timis_County_Western_Romania_Transylvania.html",
+      "https://bookingham.ro/timisoara/restaurante/restaurant-lloyd/2136"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcRfRBn51aFmg0iV0GoPMmW76iKVanNl556l-YgKfWy2eO5xFtNLn9wr-HBiBkEAjKa27PGH4F2ELcL-gICsXTnZDxKWQ9iHMSILcI667USOm3-QjdYPSzULGyXDXE4huY0jhO8pGWz7A=w900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Google Maps (proprietar)"
+      }
+    ],
+    "publicRating": {
+      "stars": 4.4,
+      "count": 1190,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/3086278/restaurant-lloyd",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "cyrano-oradea",
+    "name": "Cyrano",
+    "kind": "restaurant",
+    "address": "Calea Republicii nr. 7",
+    "city": "Oradea",
+    "county": "Bihor",
+    "latitude": 47.0579,
+    "longitude": 21.93306,
+    "summary": "Restaurant în zona pietonală din centrul Oradiei, cu preparate românești și maghiare.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.6,
+        "reviewCount": 3171
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": [
+          "cu smântână",
+          "cu ardei iute",
+          "servită în pâine"
+        ]
+      }
+    ],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/menus-glovo/products/7e5456fcbf6ad8d273b98b76a37ac83a16dd88ba5d28497243a3d15cde97643c?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/menus-glovo/products/92b862f68cf3d059edc4b44d509d819d07289cf002f7b7db986f798195ce993c?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/7e5456fcbf6ad8d273b98b76a37ac83a16dd88ba5d28497243a3d15cde97643c?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/92b862f68cf3d059edc4b44d509d819d07289cf002f7b7db986f798195ce993c?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Papanași fierți cu brânză și sos de vanilie",
+        "dish": "papanasi",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g304061-d3456394-Reviews-Cyrano-Oradea_Bihor_County_Northwest_Romania_Transylvania.html",
+      "https://www.tripadvisor.com/ShowUserReviews-g304061-d3456394-r262114699-Cyrano-Oradea_Bihor_County_Northwest_Romania_Transylvania.html",
+      "https://amfostacolo.ro/hotel9.php?d=unde-mancam-in-oradea-si-imprejurimi--oradea&id=5534"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.3,
+      "count": 3171,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/750150/cyrano",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "la-mici-piata-de-rusi-targu-mures",
+    "name": "La Mici din Piața de Ruși",
+    "kind": "terasa",
+    "address": "Str. Podeni nr. 12",
+    "city": "Târgu Mureș",
+    "county": "Mureș",
+    "latitude": 46.55426,
+    "longitude": 24.5472,
+    "website": "https://www.facebook.com/LaMiciMures/",
+    "summary": "Local specializat pe mici, cu locuri afară, lângă Piața Armatei (Piața de Ruși) din Târgu Mureș.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 9.4,
+        "reviewCount": 133
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": "medalie de aur Șoimii Gastronomiei 2024–2026",
+        "tags": [
+          "cu muștar"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.soimiigastronomiei.ro/profile-310053-la-mici-din-piata-de-rusi",
+      "https://deschis.ro/targu-mures/la-mici-264213"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QfAaB6Q5xqLoX3oui3nVJJgMi0lH6eY-z8kvA4j6VL3B5F7MBrD4G_CnoCaidv3H4eaQCj09u2Q7e_g4qZTInzMJlopXidWimIr5I09vnXgyS7wzskozmNNIxYGrhoQu_9mmjIRY-9m7G2=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn4f8XxXa378XVbAMBNY-qB22A32AG5DYNsG7yTXe9QBRiqYBdGnxk-Bhd1ctzEvbqsqUth_PM6Ah02EsXUdVIc3iADhPvCSXYF7xBCjNBPZk5OZWdOdylAdq9xm81_vtxMeL_T5sbTFzCG=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnkmIqy2KYrvFUsJa8vLB9H0F04__-oWZYukDee55IUIEMNMv3Sookay2r7XeDJdSrBrv0rhVo7N4ptBwifXZW3KVhCbKqN81HsWW3NCm5LJAn4gB2H2UYTElwpNgL7RjDu9d34_TMMUd0P=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl8Oa-riVy_0OpHw9VYsIS3Swg0wwrTCQb5Cv75Znzcl9AlkNNx2pB4sUuPb6Gi4LKZHEDkrv9INvTBgEJ3U7Ebkm0j_pPbSnbJZrPmrDmN4wXl9CDUBKjcwQzcUW86D_FVn5dJlEtrwoYS=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvrwY0eNkMPdHYR_XrEx7qQONwl50F2EHRZdwMEtmuOfwKUvwyFzhQkeLwIRRU76MX2-QMqWtbcC__OPUdAQ8v-DCj79DG02ZUZzaFWxhuZgKfP-o9ysVP2_lcQ4xPvTG72MU=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q40sZDoiUw8Gyfxz6OsiIAZTjaUTiQ3Qabd0I7oGk_VUwj0OwPzGcnSeu9ZjdXcZA6jdGZ9T9VJnmZxv0_uqlCDFOWfzeWWlO4wRuuZvmTwyJ_-r1uZY48ro2snIU7G9yQi1y44wvUrrVD=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SgM1ORl2OjOletDABFpYpuHgYFta-qKs6lPvyZDqaA-2MNuz-G8TbxHoQNJ8-3ZktNr4ItXUefwQYVs5mBjR6xH5Ekz-pQTUQRSpVm35KQsVxbFiUK7UkXZ00XpdPFZqDDFXzWLwEv_l2o=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      }
+    ],
+    "publicRating": {
+      "stars": 4.7,
+      "count": 133,
+      "source": "Google",
+      "url": null,
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "doi-nepoti-ploiesti",
+    "name": "Carmangeria Doi Nepoți",
+    "kind": "carmangerie",
+    "address": "Str. Barbu Catargiu nr. 1",
+    "city": "Ploiești",
+    "county": "Prahova",
+    "latitude": 44.9465,
+    "longitude": 26.00703,
+    "phone": "+40 723 535 241",
+    "website": "https://www.facebook.com/carmangeria2nepoti/",
+    "summary": "Carmangerie de familie din Ploiești, cu mai multe puncte de vânzare, care produce preparate din carne după rețete tradiționale.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 9.0,
+        "reviewCount": 420
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": "cea mai recomandată în sondajul cititorilor Observatorul Prahovean (mai 2026)",
+        "tags": []
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.observatorulph.ro/social/2786164-unde-gasesti-cei-mai-buni-mici-din-ploiesti-si-prahova-topul-facut-de-cititorii-observatorului-prahovean",
+      "https://www.soimiigastronomiei.ro/profile-357637-carmangeria-doi-nepoti-gusturi-romanesti",
+      "https://www.observatorulph.ro/exclusiv/2758651-carmangeria-doi-nepoti-un-business-cu-suflet-din-tata-n-fiu"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.5,
+      "count": 420,
+      "source": "Google",
+      "url": "https://www.soimiialimentari.ro/profile-52599-carmangeria-doi-nepoti-gusturi-romanesti",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "micu-lu-bicu-vaslui",
+    "name": "Micu' lu' Bicu",
+    "kind": "terasa",
+    "address": "Vaslui",
+    "city": "Vaslui",
+    "county": "Vaslui",
+    "latitude": 46.63807,
+    "longitude": 27.72842,
+    "website": "https://glovoapp.com/ro/ro/vaslui/stores/micu-lu-bicu-vsl",
+    "summary": "Grătar din Vaslui cu mici din carne proprie, prezent la Zilele Vasluiului și cu livrare prin Glovo.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "oaie și porc",
+          "angus și mangaliță"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.vremeanoua.ro/foto-video-parcul-de-distractii-micu-lu-bicu-si-puiul-la-rotisor-crescut-la-sol-de-morandi-piesele-de-rezistenta-ale-zonei-culinare-de-la-zilele-vasluiului",
+      "https://glovoapp.com/ro/ro/vaslui/stores/micu-lu-bicu-vsl"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "popasul-merei",
+    "name": "Complex Turistic Popasul Merei",
+    "kind": "restaurant",
+    "address": "DN1B km 13",
+    "city": "Merei",
+    "county": "Buzău",
+    "latitude": 45.12919,
+    "longitude": 26.67793,
+    "website": "https://www.facebook.com/complexulturisticralex/",
+    "summary": "Complex turistic cu restaurant la Popasul Merei, pe DN1B între Buzău și Ploiești.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 8.4,
+        "reviewCount": 726
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g616230-d33029017-Reviews-Complex_Turistic_Popasul_Merei-Buzau_Buzau_County_Southeast_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.2,
+      "count": 726,
+      "source": "Google",
+      "url": "https://www.soimiigastronomiei.ro/profile-88051-restaurant-ralex-grand-maestro-popas-merei",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "terasa-belvedere-arad",
+    "name": "Terasa Belvedere",
+    "kind": "terasa",
+    "address": "Piața George Enescu nr. 1",
+    "city": "Arad",
+    "county": "Arad",
+    "latitude": 46.17485,
+    "longitude": 21.3197,
+    "phone": "+40 756 301 870",
+    "website": "https://www.facebook.com/TerasaBelvedereArad/",
+    "openingHours": "L–J 10:30–23:00, V–D 10:00–24:00",
+    "summary": "Terasă-restaurant cu bucătărie românească, în Piața George Enescu din Arad.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "cu cartofi prăjiți"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://citymaps.ro/restaurant/arad/terasa-belvedere/",
+      "https://evendo.com/locations/romania/arad/restaurant/terasa-belvedere"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "apetit-bistro-arad",
+    "name": "Apetit Bistro",
+    "kind": "bistro",
+    "address": "Bd. Revoluției nr. 63",
+    "city": "Arad",
+    "county": "Arad",
+    "latitude": 46.17716,
+    "longitude": 21.31988,
+    "phone": "+40 747 775 577",
+    "website": "https://www.apetitbistro.ro/",
+    "openingHours": "L–S 08:00–18:00",
+    "summary": "Bistro cu meniul zilei și preparate europene, pe Bulevardul Revoluției din Arad.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "papanasi",
+        "note": null,
+        "tags": [
+          "cu dulceață de mure"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/ShowUserReviews-g298472-d12248507-r552644275-Apetit_Bistro-Arad_Arad_County_Western_Romania_Transylvania.html"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "euphoria-biergarten-arad",
+    "name": "Euphoria Biergarten",
+    "kind": "berarie",
+    "address": "Str. 1 Decembrie 1918 nr. 6",
+    "city": "Arad",
+    "county": "Arad",
+    "latitude": 46.17378,
+    "longitude": 21.3197,
+    "phone": "+40 745 393 333",
+    "openingHours": "Zilnic 09:00–23:00",
+    "summary": "Berărie cu grădină și bucătărie românească, în centrul Aradului.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.0,
+        "reviewCount": 4367
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g298472-d7785851-Reviews-Euphoria_Biergarten_Arad-Arad_Arad_County_Western_Romania_Transylvania.html"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.5,
+      "count": 4367,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/3210036/euphoria-biergarten-arad",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "szentgyorgy-pince",
+    "name": "Szentgyörgy Pince",
+    "kind": "restaurant",
+    "address": "Str. Gábor Áron nr. 14",
+    "city": "Sfântu Gheorghe",
+    "county": "Covasna",
+    "latitude": 45.86597,
+    "longitude": 25.78534,
+    "phone": "+40 728 036 906",
+    "website": "https://szentgyorgypince.ro",
+    "summary": "Restaurant cu bucătărie maghiară și românească, amenajat într-o pivniță din centrul orașului Sfântu Gheorghe.",
+    "specialties": [
+      "papanasi",
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 9.2,
+        "reviewCount": 135
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.2,
+        "reviewCount": 135
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "papanasi",
+        "note": null,
+        "tags": [
+          "cu smântână și dulceață"
+        ]
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/681b53bc572ff5c9395ff1ea?w=900",
+      "https://imageproxy.wolt.com/assets/681b53b98f8a680d2229c8df?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/681b53bc572ff5c9395ff1ea?w=900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/681b53b98f8a680d2229c8df?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/ShowUserReviews-g1833649-d5213331-r563343941-Szentgyorgy_Pince_Restaurant-Sfantu_Gheorghe_Covasna_County_Central_Romania_Tra.html",
+      "https://amfostacolo.ro/impresii9.php?iid=101052&d=unde-mancam-in-zona-sf-gheorghe--sfantu-gheorghe-cv",
+      "https://visitcovasna.com/en/places/pivnita-sfantu-gheorghe-nbcepa4s05tqsw"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [
+      "ciorba_de_burta"
+    ],
+    "publicRating": {
+      "stars": 4.6,
+      "count": 135,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g1833649-d5213331-Reviews-Szentgyorgy_Pince_Restaurant-Sfantu_Gheorghe_Covasna_County_Central_Romania_Tran.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "tosca-miercurea-ciuc",
+    "name": "Restaurant Tosca",
+    "kind": "restaurant",
+    "address": "Piața Majláth Gusztáv Károly nr. 1",
+    "city": "Miercurea Ciuc",
+    "county": "Harghita",
+    "latitude": 46.36002,
+    "longitude": 25.80441,
+    "phone": "+40 753 090 000",
+    "openingHours": "L–S 09:00–24:00, D 10:00–24:00",
+    "summary": "Restaurant deschis din 1972 în centrul orașului Miercurea Ciuc, cu pizza la cuptor pe lemne și preparate internaționale.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.4,
+        "reviewCount": 1789
+      }
+    ],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/menus-glovo/products/d534aa61fd0b2b948c27bc8a1dfd74de7a5c18fc0e9b17c633fc34c751924408?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/menus-glovo/products/a411daef4818e2d4869acb428b38c9257ca148032bc0d007c197bdcf5eac9d74?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/d534aa61fd0b2b948c27bc8a1dfd74de7a5c18fc0e9b17c633fc34c751924408?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Mini papanași",
+        "dish": "papanasi",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/a411daef4818e2d4869acb428b38c9257ca148032bc0d007c197bdcf5eac9d74?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g663832-d7270143-Reviews-Restaurant_Tosca-Miercurea_Ciuc_Harghita_County_Central_Romania_Transylvania.html"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.2,
+      "count": 1789,
+      "source": "Google",
+      "url": "https://wanderlog.com/place/details/2825576/tosca",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "casa-piratilor-oradea",
+    "name": "Casa Piraților",
+    "kind": "restaurant",
+    "address": "Calea Aradului nr. 22",
+    "city": "Oradea",
+    "county": "Bihor",
+    "latitude": 47.03218,
+    "longitude": 21.91044,
+    "phone": "+40 742 486 636",
+    "website": "https://www.facebook.com/gcasapiratilor/",
+    "summary": "Restaurant-pizzerie cu porții mari, pe Calea Aradului din Oradea.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "la metru",
+          "cu cartofi prăjiți",
+          "cu muștar"
+        ]
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/693062cd38b3239ead8f2d43?w=900",
+      "https://imageproxy.wolt.com/assets/69306611aa9ccb024fef26ce?w=900",
+      "https://imageproxy.wolt.com/assets/69306c4a38b3239ead8f3341?w=900",
+      "https://imageproxy.wolt.com/assets/6916eb462d5740aaaa5a2dcf?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/693062cd38b3239ead8f2d43?w=900",
+        "caption": "Mici la metru",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/69306611aa9ccb024fef26ce?w=900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/69306c4a38b3239ead8f3341?w=900",
+        "caption": "Papanași cu vanilie",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6916eb462d5740aaaa5a2dcf?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g304061-d8816340-Reviews-Casa_Piratilor-Oradea_Bihor_County_Northwest_Romania_Transylvania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": []
+  },
+  {
+    "id": "roberto-caransebes",
+    "name": "Restaurant Pizzeria Roberto",
+    "kind": "restaurant",
+    "address": "Str. Ardealului nr. 129",
+    "city": "Caransebeș",
+    "county": "Caraș-Severin",
+    "latitude": 45.42263,
+    "longitude": 22.22428,
+    "phone": "+40 355 429 828",
+    "summary": "Restaurant-pizzerie cu preparate românești, pe strada Ardealului din Caransebeș.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.4,
+        "reviewCount": 21
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/ShowUserReviews-g4583770-d13088365-r750732932-Restaurant_Pizzeria_Roberto-Caransebes_Caras_Severin_County_Western_Romania_Tr.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.2,
+      "count": 21,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g4583770-d13088365-Reviews-Restaurant_Pizzeria_Roberto-Caransebes_Caras_Severin_County_Western_Romania_Tra.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "time-out-zalau",
+    "name": "Time-Out",
+    "kind": "restaurant",
+    "address": "Str. Unirii nr. 2",
+    "city": "Zalău",
+    "county": "Sălaj",
+    "latitude": 47.18006,
+    "longitude": 23.05253,
+    "phone": "+40 735 781 826",
+    "openingHours": "L–S 08:00–24:00, D 14:00–23:00",
+    "summary": "Sports bar cu terasă și preparate românești, în centrul orașului Zalău.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://citymaps.ro/restaurant/salaj/time-out/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "miorita-satu-mare",
+    "name": "Restaurant Miorița",
+    "kind": "restaurant",
+    "address": "Str. Mihai Viteazul nr. 3",
+    "city": "Satu Mare",
+    "county": "Satu Mare",
+    "latitude": 47.79362,
+    "longitude": 22.88056,
+    "phone": "+40 745 893 114",
+    "openingHours": "Zilnic 11:30–23:00",
+    "summary": "Unul dintre cele mai vechi restaurante din Satu Mare, cu bucătărie tradițională românească, în centrul orașului.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "cu muștar"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://citymaps.ro/restaurant/satu-mare/restaurant-miorita-satu-mare/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "hanu-lu-cobala-budesti",
+    "name": "Hanu lu' Cobâlă",
+    "kind": "restaurant",
+    "address": "Budești",
+    "city": "Budești",
+    "county": "Maramureș",
+    "latitude": 47.69728,
+    "longitude": 23.91526,
+    "phone": "+40 262 390 100",
+    "website": "https://www.hanulucobala.ro/",
+    "openingHours": "Zilnic 10:00–22:00",
+    "summary": "Han cu restaurant tradițional maramureșean și terasă din lemn, în satul Budești.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": [
+          "cu pâine de casă"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/ShowUserReviews-g9867250-d15298313-r1029843345-Hanu_Lu_Cobala-Budesti_Maramures_County_Northwest_Romania_Transylvania.html",
+      "https://www.hanulucobala.ro/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "gardu-rosu-severin",
+    "name": "Gardu' Roșu",
+    "kind": "restaurant",
+    "address": "Str. Tudor Vladimirescu nr. 209",
+    "city": "Drobeta-Turnu Severin",
+    "county": "Mehedinți",
+    "latitude": 44.62668,
+    "longitude": 22.63893,
+    "phone": "+40 352 404 477",
+    "website": "https://www.meniudigital.ro/gardurosu",
+    "summary": "Restaurant cu specific românesc, cu salon rustic și terasă, în Drobeta-Turnu Severin.",
+    "specialties": [
+      "mici",
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 9.0,
+        "reviewCount": 649
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.0,
+        "reviewCount": 649
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "la grătar"
+        ]
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": [
+          "cu smântână",
+          "cu ardei iute"
+        ]
+      }
+    ],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/237665/product/1451890443/d38ccb1c-92e1-4563-8f71-1d9f2234c52e.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/menus-glovo/products/acc5dff61a5cd5601dba47627ea04cc084745801a4f458914b47c79c02255d87?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/menus-glovo/products/eaa28ea6e7263b88dbe0ffe04d95d04c6c08a552ac46f2f4245dd51e9d85f5e0?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TBi_qNmmC8DY7dk8314b0ljV7eCPDI9oq_I9IeTpDdBLYON6POmngzPRG0ClqNXfw7qHWi_bLTdcohW0r0G2h7xQw_h6fnYh0-xXx979rMYN9bxbQaBpqhL7QZo_LTchMSVr2b=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/global-menu-service/GV_RO/vendor/237665/product/1451890443/d38ccb1c-92e1-4563-8f71-1d9f2234c52e.jpg?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Platou mititei",
+        "dish": "mici",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/acc5dff61a5cd5601dba47627ea04cc084745801a4f458914b47c79c02255d87?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Meniu 5 mici cu cartofi prăjiți și muștar",
+        "dish": "mici",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/eaa28ea6e7263b88dbe0ffe04d95d04c6c08a552ac46f2f4245dd51e9d85f5e0?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://www.meniudigital.ro/gardurosu",
+      "https://www.soimiigastronomiei.ro/profile-65528-gardu-rosu"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [
+      "mici",
+      "ciorba_de_burta"
+    ],
+    "publicRating": {
+      "stars": 4.5,
+      "count": 649,
+      "source": "Google",
+      "url": null,
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "agape-severin",
+    "name": "Agape Restaurant by Kripton",
+    "kind": "restaurant",
+    "address": "Bd. Carol I nr. 2A",
+    "city": "Drobeta-Turnu Severin",
+    "county": "Mehedinți",
+    "latitude": 44.62297,
+    "longitude": 22.64522,
+    "phone": "+40 252 325 232",
+    "openingHours": "L–Mi 09:00–24:00, J–V 09:00–01:00, S–D 10:00–24:00",
+    "summary": "Restaurant cu bucătărie internațională și românească, pe Bulevardul Carol I din Drobeta-Turnu Severin.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 9.4,
+        "reviewCount": 186
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.co.uk/Restaurant_Review-g315905-d7216688-Reviews-Agape_Restaurant_by_Kripton-Drobeta_Turnu_Severin_Mehedinti_County_Southwest_Roma.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.7,
+      "count": 186,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g315905-d7216688-Reviews-Agape_Restaurant_by_Kripton-Drobeta_Turnu_Severin_Mehedinti_County_Southwest_Roma.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "casa-romaneasca-giurgiu",
+    "name": "Casa Românească",
+    "kind": "restaurant",
+    "address": "Bd. București nr. 72",
+    "city": "Giurgiu",
+    "county": "Giurgiu",
+    "latitude": 43.90382,
+    "longitude": 25.97021,
+    "website": "https://casaromaneasca-giurgiu.ro/",
+    "summary": "Restaurant cu mâncare românească și pizza, cu livrare, pe Bulevardul București din Giurgiu.",
+    "specialties": [
+      "ciorba_de_burta",
+      "mici"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://casa-romaneasca.greatfood.ro/casa-romaneasca",
+      "https://casaromaneasca-giurgiu.ro/"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [
+      "ciorba_de_burta",
+      "mici"
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T3t8WnzzlFm-8KGFRRyh49tYv9DMv6518Ek7URucf6X0QeWKAlQEfklEVnPwCfRFUYzTfOFyaQLkaLkDOOI_DqwqzcXWwJV2l_8-wDUKbEdd4kWS523E_IxDCI3xcafy2nv5wMNKZ1QAE=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      }
+    ]
+  },
+  {
+    "id": "privighetoarea-slobozia",
+    "name": "Privighetoarea",
+    "kind": "restaurant",
+    "address": "Șos. de Centură km 119 (DN2A)",
+    "city": "Slobozia",
+    "county": "Ialomița",
+    "latitude": 44.55455,
+    "longitude": 27.35419,
+    "phone": "+40 243 230 212",
+    "summary": "Hotel cu restaurant pe centura Sloboziei (DN2A), cu bucătărie românească.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": [
+          "porție generoasă"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g5973163-d10543072-Reviews-Privighetoarea_Hotel_Restaurant-Slobozia_Ialomita_County_Southern_Romania.html"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "la-iancu-otopeni",
+    "name": "La Iancu Signature",
+    "kind": "restaurant",
+    "address": "Str. 23 August nr. 200",
+    "city": "Otopeni",
+    "county": "Ilfov",
+    "latitude": 44.554409,
+    "longitude": 26.096984,
+    "phone": "+40 21 350 1591",
+    "openingHours": "Zilnic 10:00–24:00 (bucătăria 11:00–23:30)",
+    "summary": "Restaurant cu bucătărie românească și internațională din Otopeni, fostul „La Iancu”.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 9.2,
+        "reviewCount": 5190
+      }
+    ],
+    "photoURLs": [
+      "https://puiutpavel-dot.github.io/mamacebun-site/papanasi-cu-smantana-si-dulceata.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/papanasi-cu-afine.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/papanasi-cu-dulceata-de-afine.jpg"
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g298476-d8666677-Reviews-La_Iancu-Otopeni_Ilfov_County_Southern_Romania.html"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/papanasi-cu-smantana-si-dulceata.jpg",
+        "caption": "Papanași cu smântână și dulceață",
+        "dish": "papanasi",
+        "source": "La Iancu Signature (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/papanasi-cu-afine.jpg",
+        "caption": "Papanași cu dulceață de afine",
+        "dish": "papanasi",
+        "source": "La Iancu Signature (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/papanasi-cu-dulceata-de-afine.jpg",
+        "caption": "Papanași cu afine și smântână",
+        "dish": "papanasi",
+        "source": "La Iancu Signature (oficial)"
+      }
+    ],
+    "website": "https://laiancusignature.ro/",
+    "publicRating": {
+      "stars": 4.6,
+      "count": 5190,
+      "source": "Google",
+      "url": null,
+      "checked": "2026-10-02",
+      "note": "listat pe Google ca „La Iancu”, Str. 23 August 2 — același local (confirmat de Pavel)"
+    }
+  },
+  {
+    "id": "laguna-verde-caciulati",
+    "name": "Laguna Verde",
+    "kind": "restaurant",
+    "address": "Str. Armatei",
+    "city": "Căciulați",
+    "county": "Ilfov",
+    "latitude": 44.62843,
+    "longitude": 26.14739,
+    "phone": "+40 733 079 092",
+    "website": "https://www.lagunaverde.ro/",
+    "openingHours": "Zilnic 10:00–22:00",
+    "summary": "Restaurant cu terasă pe malul unui lac, într-un complex de agrement cu pescuit și cazare din nordul Ilfovului.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 6.4,
+        "reviewCount": 102
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://restograf.ro/unde-iesim-cand-avem-pofta-de-o-ciorba-de-burta/",
+      "https://www.lagunaverde.ro/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 3.2,
+      "count": 102,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g27110023-d4317421-Reviews-Restaurant_Laguna_Verde-Caciulati_Ilfov_County_Southern_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "alexo-targoviste",
+    "name": "Alexo Restaurant",
+    "kind": "restaurant",
+    "address": "Calea Domnească nr. 179",
+    "city": "Târgoviște",
+    "county": "Dâmbovița",
+    "latitude": 44.92529,
+    "longitude": 25.46961,
+    "phone": "+40 732 125 396",
+    "openingHours": "L–V 08:00–23:00, S–D 09:00–23:45",
+    "summary": "Restaurant cu bucătărie italiană și românească și terasă, pe Calea Domnească, lângă Turnul Chindiei.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 6.8,
+        "reviewCount": 64
+      }
+    ],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/menus-glovo/products/9797a2c464a24e340f23a566e8f5d7de86b31404f4c5b650db976f9d5f877f21?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/9797a2c464a24e340f23a566e8f5d7de86b31404f4c5b650db976f9d5f877f21?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g304067-d4874670-Reviews-Alexo_Restaurant-Targoviste_Dambovita_County_Southern_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 3.4,
+      "count": 64,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g304067-d4874670-Reviews-Alexo_Restaurant-Targoviste_Dambovita_County_Southern_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "tessence-buzau",
+    "name": "Tessence",
+    "kind": "restaurant",
+    "address": "Zona Unirii Nord",
+    "city": "Buzău",
+    "county": "Buzău",
+    "latitude": 45.14924,
+    "longitude": 26.81451,
+    "phone": "+40 799 458 400",
+    "openingHours": "L–S 11:00–23:00",
+    "summary": "Restaurant cu bucătărie italiană și meniul zilei, în zona Unirii Nord din Buzău.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g616230-d15285388-Reviews-Tessence_restaurant-Buzau_Buzau_County_Southeast_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "heavens-braila",
+    "name": "Restaurant Heaven's",
+    "kind": "restaurant",
+    "address": "Str. Școlilor nr. 2",
+    "city": "Brăila",
+    "county": "Brăila",
+    "latitude": 45.2679,
+    "longitude": 27.97262,
+    "phone": "+40 742 121 314",
+    "website": "https://www.heavens.ro/",
+    "summary": "Restaurant într-o clădire veche din centrul istoric al Brăilei, cu bucătărie internațională și românească.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 8.2,
+        "reviewCount": 47
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/ShowUserReviews-g304057-d3696449-r245021933-Restaurant_Heavens-Braila_Braila_County_Southeast_Romania.html",
+      "https://zilesinopti.ro/locuri/restaurant-heavens/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.1,
+      "count": 47,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g304057-d3696449-Reviews-Restaurant_Heavens-Braila_Braila_County_Southeast_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "terasa-rustic-braila",
+    "name": "Terasa Rustic",
+    "kind": "terasa",
+    "address": "Parcul Monument",
+    "city": "Brăila",
+    "county": "Brăila",
+    "latitude": 45.25451,
+    "longitude": 27.94645,
+    "phone": "+40 771 628 408",
+    "website": "https://www.facebook.com/terasarustic/",
+    "summary": "Terasă cu grătar în Parcul Monument din Brăila.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "la grătar"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g304057-d13361330-Reviews-Terasa_Rustic_Parc_Monument-Braila_Braila_County_Southeast_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [
+      "mici"
+    ],
+    "photos": []
+  },
+  {
+    "id": "poienita-galati",
+    "name": "Restaurant Poienița",
+    "kind": "restaurant",
+    "address": "Aleea Comerțului (Piața Micro 19)",
+    "city": "Galați",
+    "county": "Galați",
+    "latitude": 45.41492,
+    "longitude": 28.01517,
+    "phone": "+40 336 802 344",
+    "website": "https://www.facebook.com/restaurantpoienita/",
+    "openingHours": "L–V 08:00–19:30, S 08:00–17:30, D 08:00–15:00",
+    "summary": "Restaurant cu mâncare românească de tip „ca la mama acasă”, cu terasă, lângă piața din Micro 19.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://exploremag.ro/cei-mai-buni-mici-in-galati/",
+      "https://www.tripadvisor.com/Restaurant_Review-g304059-d20328072-Reviews-Restaurant_Poienita-Galati_Galati_County_Southeast_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QkS9RfntB8y0_Kqf6L-CZBeHY5Z8LaylEUr8MKNyBtf_jukqxDO5vgF6J5vwHZZ3yzRWwokpTor_1kwIOnClP_wO9WFjIopy2VPEyVbWk2yc4i82V-R1ypjdWNXeKF4nSPyom6Vw=w900",
+        "caption": "Mititei",
+        "dish": "mici",
+        "source": "Google Maps (proprietar)"
+      }
+    ]
+  },
+  {
+    "id": "faleza-tulcea",
+    "name": "Restaurant Faleză",
+    "kind": "restaurant",
+    "address": "Str. Gării nr. 3-4",
+    "city": "Tulcea",
+    "county": "Tulcea",
+    "latitude": 45.18146,
+    "longitude": 28.79185,
+    "phone": "+40 746 778 275",
+    "openingHours": "Zilnic 08:00–22:00",
+    "summary": "Restaurant pe faleza Dunării din Tulcea, lângă gară.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g295395-d12429282-Reviews-Restaurant_Faleza-Tulcea_Tulcea_County_Southeast_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "vatra-bacau",
+    "name": "Restaurant Vatra",
+    "kind": "restaurant",
+    "address": "Calea Moldovei nr. 133",
+    "city": "Bacău",
+    "county": "Bacău",
+    "latitude": 46.59016,
+    "longitude": 26.9122,
+    "phone": "+40 758 857 622",
+    "summary": "Restaurant cu bucătărie tradițională românească pe Calea Moldovei, în Bacău.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 8.8,
+        "reviewCount": 21
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "la grătar"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g608954-d7215349-Reviews-Restaurant_Vatra-Bacau_Bacau_County_Northeast_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": [],
+    "publicRating": {
+      "stars": 4.4,
+      "count": 21,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g608954-d7215349-Reviews-Restaurant_Vatra-Bacau_Bacau_County_Northeast_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "valhalla-bacau",
+    "name": "Berăria Valhalla",
+    "kind": "berarie",
+    "address": "Str. Erou Gheorghe Rusu nr. 2",
+    "city": "Bacău",
+    "county": "Bacău",
+    "latitude": 46.56389,
+    "longitude": 26.91503,
+    "phone": "+40 748 254 252",
+    "website": "https://berariavalhalla.ro/",
+    "summary": "Berărie-restaurant în centrul orașului Bacău.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "papanasi",
+        "score": 7.6,
+        "reviewCount": 75
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "papanasi",
+        "note": null,
+        "tags": [
+          "porție mare"
+        ]
+      }
+    ],
+    "photoURLs": [
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/valhalla-bacau/4-negri-mititei.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/valhalla-bacau/un-metru-de-mici.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/valhalla-bacau/mini-papanasi.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/valhalla-bacau/papanasi-de-papanasi.jpg"
+    ],
+    "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/valhalla-bacau/4-negri-mititei.jpg",
+        "caption": "4 negri mititei",
+        "dish": "mici"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/valhalla-bacau/un-metru-de-mici.jpg",
+        "caption": "Un metru de mici",
+        "dish": "mici"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/valhalla-bacau/mini-papanasi.jpg",
+        "caption": "Mini papanași",
+        "dish": "papanasi"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/valhalla-bacau/papanasi-de-papanasi.jpg",
+        "caption": "Papanași de papanași",
+        "dish": "papanasi"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g608954-d8126451-Reviews-BERARIA_VALHALLA-Bacau_Bacau_County_Northeast_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 3.8,
+      "count": 75,
+      "source": "Tripadvisor",
+      "url": null,
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "nenea-iancu-piatra-neamt",
+    "name": "Berăria Nenea Iancu",
+    "kind": "berarie",
+    "address": "Bd. Republicii nr. 5",
+    "city": "Piatra Neamț",
+    "county": "Neamț",
+    "latitude": 46.93089,
+    "longitude": 26.36583,
+    "phone": "+40 233 213 114",
+    "website": "https://www.berarianeneaiancu.ro/",
+    "openingHours": "Zilnic 09:30–24:00",
+    "summary": "Berărie cu terasă pe Bulevardul Republicii, în centrul orașului Piatra Neamț.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 6.8,
+        "reviewCount": 33
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "vită și oaie"
+        ]
+      }
+    ],
+    "photoURLs": [
+      "https://glovo.dhmedia.io/image/menus-glovo/products/0b6d659019f0c923d1223ed95b0387ea7988585ef11265a5e6e7dbfa3adeaf6d?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/menus-glovo/products/97416e6e968f59fca318d658c154ec6e61b7ab4a703518e05102a287113596ac?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://glovo.dhmedia.io/image/menus-glovo/products/ba694573e61adae1961dfc18bf057ce3f6830bd1d6e5991ffa685d378e3c1100?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
+    ],
+    "photos": [
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/0b6d659019f0c923d1223ed95b0387ea7988585ef11265a5e6e7dbfa3adeaf6d?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Mici „Mari” vită-oaie",
+        "dish": "mici",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/97416e6e968f59fca318d658c154ec6e61b7ab4a703518e05102a287113596ac?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Mici pe băț cu bacon",
+        "dish": "mici",
+        "source": "Glovo"
+      },
+      {
+        "url": "https://glovo.dhmedia.io/image/menus-glovo/products/ba694573e61adae1961dfc18bf057ce3f6830bd1d6e5991ffa685d378e3c1100?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Glovo"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g304062-d10804472-Reviews-Beraria_Nenea_Iancu_Piatra_Neamt-Piatra_Neamt_Neamt_County_Northeast_Romania.html",
+      "https://bookingham.ro/piatra-neamt/restaurante/beraria-nenea-iancu/1901"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 3.4,
+      "count": 33,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g304062-d10804472-Reviews-Beraria_Nenea_Iancu_Piatra_Neamt-Piatra_Neamt_Neamt_County_Northeast_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "vama-veche-suceava",
+    "name": "Restaurant Vama Veche",
+    "kind": "restaurant",
+    "address": "Aleea Vamii nr. 7, Șcheia",
+    "city": "Suceava",
+    "county": "Suceava",
+    "latitude": 47.65391,
+    "longitude": 26.20518,
+    "phone": "+40 721 526 939",
+    "summary": "Restaurant cu specific tradițional moldovenesc în Șcheia, la marginea orașului Suceava.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "cu pâine de casă"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g304066-d4453253-Reviews-Vama_Veche-Suceava_Suceava_County_Northeast_Romania.html"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "crama-domneasca-vaslui",
+    "name": "Crama Domnească",
+    "kind": "crama",
+    "address": "Str. Ștefan cel Mare nr. 89",
+    "city": "Vaslui",
+    "county": "Vaslui",
+    "latitude": 46.64087,
+    "longitude": 27.73449,
+    "phone": "+40 756 275 844",
+    "website": "http://www.cramadomneascavaslui.ro",
+    "summary": "Cramă-restaurant cu terasă pe strada Ștefan cel Mare din Vaslui.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": [
+          "porție generoasă"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g659619-d15092441-Reviews-Crama_Domneasca-Vaslui_Vaslui_County_Northeast_Romania.html",
+      "https://deschis.ro/vaslui/restaurantul-crama-domneasca-7164"
+    ],
+    "coordinatesApproximate": true,
+    "menuOnly": [],
+    "photos": []
+  },
+  {
+    "id": "intim-focsani",
+    "name": "Restaurant Intim",
+    "kind": "restaurant",
+    "address": "Str. Nicolae Bălcescu nr. 2",
+    "city": "Focșani",
+    "county": "Vrancea",
+    "latitude": 45.70014,
+    "longitude": 27.17909,
+    "phone": "+40 237 230 021",
+    "website": "https://restaurantintim.ro/",
+    "openingHours": "L–V 09:00–22:30, S–D 09:00–23:00",
+    "summary": "Restaurant cu terasă și muzică live în centrul orașului Focșani.",
+    "specialties": [
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 8.2,
+        "reviewCount": 47
+      }
+    ],
+    "photoURLs": [
+      "https://imageproxy.wolt.com/assets/680f83099e56538366aff48c?w=900",
+      "https://imageproxy.wolt.com/assets/680f830847563ed675b3b4ae?w=900",
+      "https://imageproxy.wolt.com/assets/680f830b2782f6a9308c7565?w=900"
+    ],
+    "photos": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/680f83099e56538366aff48c?w=900",
+        "caption": "Mici vită-porc-oaie cu muștar",
+        "dish": "mici",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/680f830847563ed675b3b4ae?w=900",
+        "caption": "Papanași",
+        "dish": "papanasi",
+        "source": "Wolt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/680f830b2782f6a9308c7565?w=900",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Wolt"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g304058-d10316118-Reviews-or30-Restaurant_Intim-Focsani_Vrancea_County_Southeast_Romania.html",
+      "https://bookingham.ro/focsani/restaurante/restaurant-intim/1332"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.1,
+      "count": 47,
+      "source": "Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g304058-d10316118-Reviews-Restaurant_Intim-Focsani_Vrancea_County_Southeast_Romania.html",
+      "checked": "2026-10-02"
+    }
+  },
+  {
+    "id": "belvedere-botosani",
+    "name": "Restaurant Belvedere",
+    "kind": "restaurant",
+    "address": "Bd. Mihai Eminescu nr. 67",
+    "city": "Botoșani",
+    "county": "Botoșani",
+    "latitude": 47.74267,
+    "longitude": 26.65773,
+    "phone": "+40 755 510 200",
+    "website": "https://hotelbelvederebotosani.ro/restaurant/",
+    "summary": "Restaurantul hotelului Belvedere, pe bulevardul Mihai Eminescu din Botoșani.",
+    "specialties": [
+      "papanasi"
+    ],
+    "ratings": [],
+    "dishDetails": [
+      {
+        "dish": "papanasi",
+        "note": null,
+        "tags": [
+          "două rețete"
+        ]
+      }
+    ],
+    "photoURLs": [],
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g1784438-d10122691-Reviews-Restaurant_Belvedere-Botosani_Botosani_County_Northeast_Romania.html",
+      "https://hotelbelvederebotosani.ro/contact/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "photos": []
+  }
+]

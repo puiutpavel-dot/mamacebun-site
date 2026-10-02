@@ -1,0 +1,108 @@
+rules_version = '2';
+
+// Mamă, ce Bun! — reguli Cloud Firestore.
+// Se copiază în Firebase Console → Firestore Database → Rules → Publish.
+//
+// reviews/{restaurantID}_{dish}_{uid}  — o notă per utilizator, local și preparat
+// reports/{reviewID}_{uid}             — un raport per utilizator per notă
+// banned/{uid}                         — utilizatori blocați de moderator (adăugați manual din consolă)
+// suggestions/{auto}                   — localuri propuse de utilizatori; doar scriere, citite din consolă
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    // Un utilizator blocat de moderator nu mai poate publica sau modifica note.
+    function notBanned() {
+      return !exists(/databases/$(database)/documents/banned/$(request.auth.uid));
+    }
+
+    function validScore(score) {
+      return score is number && score >= 1 && score <= 10;
+    }
+
+    function validComment(comment) {
+      return comment is string && comment.size() <= 280;
+    }
+
+    match /reviews/{reviewId} {
+      // Notele și comentariile sunt publice (fără nume); raportările le ascund în aplicație.
+      allow read: if true;
+
+      allow create: if signedIn() && notBanned()
+        && request.resource.data.keys().hasOnly(
+             ['restaurantID', 'dish', 'uid', 'score', 'comment', 'createdAt', 'updatedAt', 'reportCount'])
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.restaurantID is string
+        && request.resource.data.restaurantID.size() > 0
+        && request.resource.data.restaurantID.size() <= 80
+        && request.resource.data.dish in ['mici', 'papanasi', 'ciorba_de_burta']
+        && reviewId == request.resource.data.restaurantID + '_' + request.resource.data.dish + '_' + request.auth.uid
+        && validScore(request.resource.data.score)
+        && validComment(request.resource.data.comment)
+        && request.resource.data.createdAt == request.time
+        && request.resource.data.updatedAt == request.time
+        && request.resource.data.reportCount == 0;
+
+      allow update: if signedIn() && (
+        // Autorul își modifică nota sau comentariul.
+        (
+          resource.data.uid == request.auth.uid
+          && notBanned()
+          && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['score', 'comment', 'updatedAt'])
+          && validScore(request.resource.data.score)
+          && validComment(request.resource.data.comment)
+          && request.resource.data.updatedAt == request.time
+        )
+        ||
+        // Altcineva o raportează: +1, o singură dată, împreună cu documentul din `reports`.
+        (
+          resource.data.uid != request.auth.uid
+          && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['reportCount'])
+          && request.resource.data.reportCount == resource.data.reportCount + 1
+          && !exists(/databases/$(database)/documents/reports/$(reviewId + '_' + request.auth.uid))
+          && existsAfter(/databases/$(database)/documents/reports/$(reviewId + '_' + request.auth.uid))
+        )
+      );
+
+      allow delete: if signedIn() && resource.data.uid == request.auth.uid;
+    }
+
+    match /reports/{reportId} {
+      allow create: if signedIn()
+        && request.resource.data.keys().hasOnly(['uid', 'reviewId', 'createdAt'])
+        && request.resource.data.uid == request.auth.uid
+        && reportId == request.resource.data.reviewId + '_' + request.auth.uid
+        && request.resource.data.createdAt == request.time;
+      allow read, update, delete: if false;
+    }
+
+    // Localuri propuse: oricine e conectat poate trimite; nimeni nu le citește din aplicație.
+    match /suggestions/{suggestionId} {
+      allow create: if signedIn() && notBanned()
+        && request.resource.data.keys().hasOnly(
+             ['name', 'city', 'address', 'dishes', 'note', 'link', 'uid', 'status', 'createdAt'])
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.name is string
+        && request.resource.data.name.size() >= 2 && request.resource.data.name.size() <= 100
+        && request.resource.data.city is string
+        && request.resource.data.city.size() >= 2 && request.resource.data.city.size() <= 80
+        && request.resource.data.address is string && request.resource.data.address.size() <= 160
+        && request.resource.data.dishes is list
+        && request.resource.data.dishes.size() >= 1 && request.resource.data.dishes.size() <= 3
+        && request.resource.data.dishes.hasOnly(['mici', 'papanasi', 'ciorba_de_burta'])
+        && request.resource.data.note is string && request.resource.data.note.size() <= 280
+        && request.resource.data.link is string && request.resource.data.link.size() <= 300
+        && request.resource.data.status == 'pending'
+        && request.resource.data.createdAt == request.time;
+      allow read, update, delete: if false;
+    }
+
+    // Doar moderatorul (din consolă) scrie aici; aplicația nu are acces.
+    match /banned/{uid} {
+      allow read, write: if false;
+    }
+  }
+}
