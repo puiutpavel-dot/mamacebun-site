@@ -3753,29 +3753,29 @@
       }
     ],
     "photoURLs": [
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/papanasi.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/mici.jpg",
       "https://glovo.dhmedia.io/image/menus-glovo/products/d534aa61fd0b2b948c27bc8a1dfd74de7a5c18fc0e9b17c633fc34c751924408?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
-      "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/ciorba-de-burta.png",
-      "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/mici.jpeg",
       "https://glovo.dhmedia.io/image/menus-glovo/products/a411daef4818e2d4869acb428b38c9257ca148032bc0d007c197bdcf5eac9d74?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
     ],
     "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/papanasi.jpg",
+        "caption": "Papanași cu smântână și dulceață",
+        "dish": "papanasi",
+        "source": "Restaurant Tosca (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/mici.jpg",
+        "caption": "Mici",
+        "dish": "mici",
+        "source": "Restaurant Tosca (oficial)"
+      },
       {
         "url": "https://glovo.dhmedia.io/image/menus-glovo/products/d534aa61fd0b2b948c27bc8a1dfd74de7a5c18fc0e9b17c633fc34c751924408?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
         "caption": "Mini papanași",
         "dish": "papanasi",
         "source": "Glovo"
-      },
-      {
-        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/ciorba-de-burta.png",
-        "caption": "Ciorbă de burtă",
-        "dish": "ciorba_de_burta",
-        "source": "Restaurant Tosca (oficial)"
-      },
-      {
-        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/mici.jpeg",
-        "caption": "Mici",
-        "dish": "mici",
-        "source": "Restaurant Tosca (oficial)"
       },
       {
         "url": "https://glovo.dhmedia.io/image/menus-glovo/products/a411daef4818e2d4869acb428b38c9257ca148032bc0d007c197bdcf5eac9d74?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
