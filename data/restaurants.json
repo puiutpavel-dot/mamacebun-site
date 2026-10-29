@@ -3731,17 +3731,31 @@
     "openingHours": "L–S 09:00–24:00, D 10:00–24:00",
     "summary": "Restaurant deschis din 1972 în centrul orașului Miercurea Ciuc, cu pizza la cuptor pe lemne și preparate internaționale.",
     "specialties": [
-      "papanasi"
+      "papanasi",
+      "ciorba_de_burta",
+      "mici"
     ],
     "ratings": [
       {
         "dish": "papanasi",
         "score": 8.4,
         "reviewCount": 1789
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.4,
+        "reviewCount": 1789
+      },
+      {
+        "dish": "mici",
+        "score": 8.4,
+        "reviewCount": 1789
       }
     ],
     "photoURLs": [
       "https://glovo.dhmedia.io/image/menus-glovo/products/d534aa61fd0b2b948c27bc8a1dfd74de7a5c18fc0e9b17c633fc34c751924408?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/ciorba-de-burta.png",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/mici.jpeg",
       "https://glovo.dhmedia.io/image/menus-glovo/products/a411daef4818e2d4869acb428b38c9257ca148032bc0d007c197bdcf5eac9d74?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ=="
     ],
     "photos": [
@@ -3750,6 +3764,18 @@
         "caption": "Mini papanași",
         "dish": "papanasi",
         "source": "Glovo"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/ciorba-de-burta.png",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Restaurant Tosca (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/tosca-miercurea-ciuc/mici.jpeg",
+        "caption": "Mici",
+        "dish": "mici",
+        "source": "Restaurant Tosca (oficial)"
       },
       {
         "url": "https://glovo.dhmedia.io/image/menus-glovo/products/a411daef4818e2d4869acb428b38c9257ca148032bc0d007c197bdcf5eac9d74?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6OTAwLCJoZWlnaHQiOjkwMH19XQ==",
