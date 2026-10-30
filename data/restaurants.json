@@ -4781,5 +4781,108 @@
     "coordinatesApproximate": false,
     "menuOnly": [],
     "photos": []
+  },
+  {
+    "id": "casa-humor-gura-humorului",
+    "name": "Casa Humor",
+    "kind": "restaurant",
+    "address": "Aleea Ștefan cel Mare nr. 5 bis",
+    "city": "Gura Humorului",
+    "county": "Suceava",
+    "latitude": 47.550519,
+    "longitude": 25.872642,
+    "phone": "+40 753 057 706",
+    "openingHours": "Zilnic 08:00–22:00",
+    "summary": "Pensiune de 4 stele cu restaurant în Gura Humorului, în inima Bucovinei; papanașii sunt după rețeta originală, nu gogoși.",
+    "specialties": [
+      "ciorba_de_burta",
+      "papanasi",
+      "mici"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.4,
+        "reviewCount": 2153
+      },
+      {
+        "dish": "papanasi",
+        "score": 9.4,
+        "reviewCount": 2153
+      },
+      {
+        "dish": "mici",
+        "score": 9.4,
+        "reviewCount": 2153
+      }
+    ],
+    "photoURLs": [
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-humor-gura-humorului/ciorba-1.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-humor-gura-humorului/papanasi.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-humor-gura-humorului/mici.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-humor-gura-humorului/ciorba-2.jpg"
+    ],
+    "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-humor-gura-humorului/ciorba-1.jpg",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "Casa Humor (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-humor-gura-humorului/papanasi.jpg",
+        "caption": "Papanași cu smântână și dulceață de afine",
+        "dish": "papanasi",
+        "source": "Casa Humor (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-humor-gura-humorului/mici.jpg",
+        "caption": "Mici și cârnați cu muștar și cartofi prăjiți",
+        "dish": "mici",
+        "source": "Casa Humor (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-humor-gura-humorului/ciorba-2.jpg",
+        "caption": "Ciorbă de burtă cu smântână și ardei iute",
+        "dish": "ciorba_de_burta",
+        "source": "Casa Humor (oficial)"
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": [
+          "cu smântână și ardei iute"
+        ]
+      },
+      {
+        "dish": "papanasi",
+        "note": "Rețeta originală, nu gogoși",
+        "tags": [
+          "cu smântână și dulceață de afine"
+        ]
+      },
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "cu muștar și cartofi prăjiți"
+        ]
+      }
+    ],
+    "website": "https://casahumor.ro/",
+    "sources": [
+      "https://casahumor.ro/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.7,
+      "count": 2153,
+      "source": "Google",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TubxTKvNUcRyudMp4GtNjA",
+      "checked": "2026-10-30"
+    }
   }
 ]
