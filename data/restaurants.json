@@ -685,13 +685,36 @@
         "reviewCount": 5872
       }
     ],
-    "photoURLs": [],
+    "photoURLs": [
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/sibiul-vechi/papanasi-1.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/sibiul-vechi/papanasi-2.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/sibiul-vechi/papanasi-3.jpg"
+    ],
     "sources": [
       "https://www.turnulsfatului.ro/2022/05/29/am-mancat-regeste-la-crama-sibiul-vechi-nu-mai-astept-atat-pana-la-urmatoarea-vizita-193283"
     ],
     "coordinatesApproximate": false,
     "menuOnly": [],
-    "photos": [],
+    "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/sibiul-vechi/papanasi-1.jpg",
+        "caption": "Papanași cu smântână și dulceață de afine",
+        "dish": "papanasi",
+        "source": "Crama Sibiul Vechi (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/sibiul-vechi/papanasi-2.jpg",
+        "caption": "Papanași cu smântână și dulceață de afine",
+        "dish": "papanasi",
+        "source": "Crama Sibiul Vechi (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/sibiul-vechi/papanasi-3.jpg",
+        "caption": "Papanași cu smântână și dulceață de afine",
+        "dish": "papanasi",
+        "source": "Crama Sibiul Vechi (oficial)"
+      }
+    ],
     "publicRating": {
       "stars": 4.6,
       "count": 5872,
