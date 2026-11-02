@@ -4815,7 +4815,7 @@
     "latitude": 47.550519,
     "longitude": 25.872642,
     "phone": "+40 753 057 706",
-    "openingHours": "Zilnic 08:00–22:00",
+    "openingHours": "Zilnic 12:00–22:00 (mic dejun 08:00–12:00)",
     "summary": "Pensiune de 4 stele cu restaurant în Gura Humorului, în inima Bucovinei; papanașii sunt după rețeta originală, nu gogoși.",
     "specialties": [
       "ciorba_de_burta",
@@ -4906,6 +4906,50 @@
       "source": "Google",
       "url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TubxTKvNUcRyudMp4GtNjA",
       "checked": "2026-10-30"
+    }
+  },
+  {
+    "id": "casa-verde-slobozia",
+    "name": "Restaurant Casa Verde",
+    "kind": "restaurant",
+    "address": "Str. Eternității nr. 1",
+    "city": "Slobozia",
+    "county": "Ialomița",
+    "latitude": 44.5652828,
+    "longitude": 27.3572619,
+    "phone": "+40 730 339 877",
+    "openingHours": "Luni–sâmbătă 09:00–17:00",
+    "summary": "Restaurant în Slobozia cu meniul zilei și bucătărie românească, potrivit și pentru evenimente mici.",
+    "specialties": [
+      "ciorba_de_burta"
+    ],
+    "ratings": [
+      {
+        "dish": "ciorba_de_burta",
+        "score": 8.0,
+        "reviewCount": 133
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": []
+      }
+    ],
+    "photoURLs": [],
+    "photos": [],
+    "sources": [
+      "https://www.google.com/maps/place/?q=place_id:ChIJofOwwJxRsEARt3PAqn9IR2o"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.0,
+      "count": 133,
+      "source": "Google",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJofOwwJxRsEARt3PAqn9IR2o",
+      "checked": "2026-11-02"
     }
   }
 ]
