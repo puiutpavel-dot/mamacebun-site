@@ -2204,17 +2204,48 @@
       "mici"
     ],
     "ratings": [],
-    "photoURLs": [],
+    "photoURLs": [
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/ciorba.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/papanasi.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-2.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-1.jpg"
+    ],
     "sources": [
       "E-mail de la restaurant (LRT Medieval Trading), 02.10.2026",
       "https://www.lastradasighisoara.ro/restaurant-la-strada/",
       "https://www.rjontour.com/restaurants-sighisoara/",
       "https://www.tripadvisor.com/Restaurant_Review-g311309-d33228727-Reviews-La_Strada-Sighisoara_Mures_County_Central_Romania_Transylvania.html",
-      "https://casa-la-strada-sighisoara.hotelmix.ro/"
+      "https://casa-la-strada-sighisoara.hotelmix.ro/",
+      "Poze trimise de restaurant pe e-mail (LRT Medieval Trading), 03.11.2026"
     ],
     "coordinatesApproximate": true,
     "menuOnly": [],
-    "photos": []
+    "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/ciorba.jpg",
+        "caption": "Ciorbă de burtă",
+        "dish": "ciorba_de_burta",
+        "source": "La Strada Sighișoara (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/papanasi.jpg",
+        "caption": "Papanași cu smântână și dulceață de afine",
+        "dish": "papanasi",
+        "source": "La Strada Sighișoara (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-2.jpg",
+        "caption": "Mici cu muștar, cartofi prăjiți și salată",
+        "dish": "mici",
+        "source": "La Strada Sighișoara (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-1.jpg",
+        "caption": "Mici cu muștar și cartofi prăjiți",
+        "dish": "mici",
+        "source": "La Strada Sighișoara (oficial)"
+      }
+    ]
   },
   {
     "id": "la-scara-sighisoara",
@@ -2233,14 +2264,38 @@
       "mici"
     ],
     "ratings": [],
-    "photoURLs": [],
+    "photoURLs": [
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/papanasi.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-2.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-1.jpg"
+    ],
     "sources": [
       "Mesaj WhatsApp de la proprietar (LRT Medieval Trading), 02.10.2026",
-      "https://www.lastradasighisoara.ro/restaurant-la-scara/"
+      "https://www.lastradasighisoara.ro/restaurant-la-scara/",
+      "Poze trimise de restaurant pe e-mail (LRT Medieval Trading), 03.11.2026"
     ],
     "coordinatesApproximate": true,
     "menuOnly": [],
-    "photos": []
+    "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/papanasi.jpg",
+        "caption": "Papanași cu smântână și dulceață de afine",
+        "dish": "papanasi",
+        "source": "La Strada Sighișoara (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-2.jpg",
+        "caption": "Mici cu muștar, cartofi prăjiți și salată",
+        "dish": "mici",
+        "source": "La Strada Sighișoara (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-1.jpg",
+        "caption": "Mici cu muștar și cartofi prăjiți",
+        "dish": "mici",
+        "source": "La Strada Sighișoara (oficial)"
+      }
+    ]
   },
   {
     "id": "josef-bacon-sighisoara",
@@ -2259,14 +2314,38 @@
       "mici"
     ],
     "ratings": [],
-    "photoURLs": [],
+    "photoURLs": [
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/papanasi.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-2.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-1.jpg"
+    ],
     "sources": [
       "Mesaj WhatsApp de la proprietar (LRT Medieval Trading), 02.10.2026",
-      "https://www.lastradasighisoara.ro/restaurant-josef-bacon/"
+      "https://www.lastradasighisoara.ro/restaurant-josef-bacon/",
+      "Poze trimise de restaurant pe e-mail (LRT Medieval Trading), 03.11.2026"
     ],
     "coordinatesApproximate": true,
     "menuOnly": [],
-    "photos": []
+    "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/papanasi.jpg",
+        "caption": "Papanași cu smântână și dulceață de afine",
+        "dish": "papanasi",
+        "source": "La Strada Sighișoara (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-2.jpg",
+        "caption": "Mici cu muștar, cartofi prăjiți și salată",
+        "dish": "mici",
+        "source": "La Strada Sighișoara (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/la-strada-sighisoara/mici-1.jpg",
+        "caption": "Mici cu muștar și cartofi prăjiți",
+        "dish": "mici",
+        "source": "La Strada Sighișoara (oficial)"
+      }
+    ]
   },
   {
     "id": "la-conac-alba-iulia",
