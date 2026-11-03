@@ -4933,12 +4933,23 @@
     "dishDetails": [
       {
         "dish": "ciorba_de_burta",
-        "note": null,
-        "tags": []
+        "note": "20 lei porția",
+        "tags": [
+          "cu smântână și mujdei"
+        ]
       }
     ],
-    "photoURLs": [],
-    "photos": [],
+    "photoURLs": [
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-verde-slobozia/ciorba.jpg"
+    ],
+    "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/casa-verde-slobozia/ciorba.jpg",
+        "caption": "Ciorbă de burtă cu smântână și mujdei",
+        "dish": "ciorba_de_burta",
+        "source": "Casa Verde (oficial)"
+      }
+    ],
     "sources": [
       "https://www.google.com/maps/place/?q=place_id:ChIJofOwwJxRsEARt3PAqn9IR2o"
     ],
