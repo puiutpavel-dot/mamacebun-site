@@ -5090,7 +5090,7 @@
       },
       {
         "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/rustic-iasi/ciorba.jpg",
-        "caption": "Ciorbă de burtă cu smântână și ardei iute",
+        "caption": "Ciorbă de burtă (smântâna și ardeiul iute se comandă separat)",
         "dish": "ciorba_de_burta",
         "source": "Restaurant Rustic – Bellaria Hotel (oficial)"
       },
@@ -5111,10 +5111,8 @@
       },
       {
         "dish": "ciorba_de_burta",
-        "note": null,
-        "tags": [
-          "cu smântână și ardei iute"
-        ]
+        "note": "Smântâna și ardeiul iute sunt extra (se comandă separat)",
+        "tags": []
       },
       {
         "dish": "papanasi",
