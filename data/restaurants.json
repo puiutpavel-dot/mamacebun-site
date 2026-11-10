@@ -5041,5 +5041,101 @@
       "url": "https://www.google.com/maps/place/?q=place_id:ChIJofOwwJxRsEARt3PAqn9IR2o",
       "checked": "2026-11-02"
     }
+  },
+  {
+    "id": "rustic-iasi",
+    "name": "Restaurant Rustic",
+    "kind": "restaurant",
+    "address": "Șoseaua Bucium nr. 7 (în incinta Bellaria Hotel)",
+    "city": "Iași",
+    "county": "Iași",
+    "latitude": 47.1327012,
+    "longitude": 27.6124129,
+    "phone": "+40 332 403 525",
+    "openingHours": "Zilnic 10:00–24:00 (ultima comandă la bucătărie: 22:00, la bar: 23:00)",
+    "summary": "Restaurant cu specific românesc în incinta Bellaria Hotel, pe Șoseaua Bucium din Iași, cu mici, ciorbă de burtă și papanași.",
+    "specialties": [
+      "mici",
+      "ciorba_de_burta",
+      "papanasi"
+    ],
+    "ratings": [
+      {
+        "dish": "mici",
+        "score": 9.2,
+        "reviewCount": 563
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "score": 9.2,
+        "reviewCount": 563
+      },
+      {
+        "dish": "papanasi",
+        "score": 9.2,
+        "reviewCount": 563
+      }
+    ],
+    "photoURLs": [
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/rustic-iasi/mici.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/rustic-iasi/ciorba.jpg",
+      "https://puiutpavel-dot.github.io/mamacebun-site/poze/rustic-iasi/papanasi.jpg"
+    ],
+    "photos": [
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/rustic-iasi/mici.jpg",
+        "caption": "Mici cu muștar și cartofi prăjiți",
+        "dish": "mici",
+        "source": "Restaurant Rustic – Bellaria Hotel (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/rustic-iasi/ciorba.jpg",
+        "caption": "Ciorbă de burtă cu smântână și ardei iute",
+        "dish": "ciorba_de_burta",
+        "source": "Restaurant Rustic – Bellaria Hotel (oficial)"
+      },
+      {
+        "url": "https://puiutpavel-dot.github.io/mamacebun-site/poze/rustic-iasi/papanasi.jpg",
+        "caption": "Papanași cu smântână și dulceață de afine",
+        "dish": "papanasi",
+        "source": "Restaurant Rustic – Bellaria Hotel (oficial)"
+      }
+    ],
+    "dishDetails": [
+      {
+        "dish": "mici",
+        "note": null,
+        "tags": [
+          "cu muștar și cartofi prăjiți"
+        ]
+      },
+      {
+        "dish": "ciorba_de_burta",
+        "note": null,
+        "tags": [
+          "cu smântână și ardei iute"
+        ]
+      },
+      {
+        "dish": "papanasi",
+        "note": null,
+        "tags": [
+          "cu smântână și dulceață de afine"
+        ]
+      }
+    ],
+    "website": "https://www.bellaria.ro/",
+    "sources": [
+      "https://www.bellaria.ro/"
+    ],
+    "coordinatesApproximate": false,
+    "menuOnly": [],
+    "publicRating": {
+      "stars": 4.6,
+      "count": 563,
+      "source": "Google",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJNa_pWtD7ykARYYpo7jEbPSY",
+      "checked": "2026-11-10"
+    }
   }
 ]
